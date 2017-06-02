@@ -1,0 +1,5 @@
+Company,COACode,Description,SeparatorChar,COASegment#SegmentNbr,COASegment#SegmentName,COASegment#Abbreviation,COASegment#MaxLength,COASegment#MinLength,COASegment#Dynamic,COASegment#AllowAlpha,COASegment#SummaryBal,COASegment#DetailBal,COASegment#DisplayOrder
+EPIC07,MAIN,Company Chart of Accounts,-,1,Chart,Chart,5,5,FALSE,FALSE,TRUE,TRUE,1
+EPIC07,MAIN,Company Chart of Accounts,-,2,Division,Div,2,2,FALSE,FALSE,TRUE,TRUE,3
+EPIC07,MAIN,Company Chart of Accounts,-,3,Department,Dpt,3,3,FALSE,FALSE,TRUE,TRUE,2
+EPIC07,MAIN,Company Chart of Accounts,-,4,Reference,Ref,10,0,TRUE,TRUE,TRUE,TRUE,1

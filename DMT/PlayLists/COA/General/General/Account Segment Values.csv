@@ -1,0 +1,225 @@
+Company,COACode,SegmentCode,SegmentName,SegmentDesc,SegmentNbrName,NormalBalance,SegmentAbbrev,Category,CurrencyAcctType
+EPIC07,MAIN,10100,Land & Buildings,,Chart,D,L&B,F_ASSETS,N
+EPIC07,MAIN,10110,Land & Buildings Depreciation,,Chart,C,L&BD,F_ASSETS,N
+EPIC07,MAIN,10200,Plant & Machinery,,Chart,D,P&M,F_ASSETS,N
+EPIC07,MAIN,10210,Plant & Machinery - Depreciation,,Chart,C,P&MD,F_ASSETS,N
+EPIC07,MAIN,10400,Motor Vehicles,,Chart,D,MV,F_ASSETS,N
+EPIC07,MAIN,10410,Motor Vehicle - Depreciation,,Chart,C,MVD,F_ASSETS,N
+EPIC07,MAIN,10500,Fixtures Fittings & Office Equipment,,Chart,D,F&F,F_ASSETS,N
+EPIC07,MAIN,10510,F.& F.& Office Equipment- Depreciati,,Chart,C,F&FD,F_ASSETS,N
+EPIC07,MAIN,10600,Computer Equipment,,Chart,D,CE,F_ASSETS,N
+EPIC07,MAIN,10610,Computer Equipment - Depreciation,,Chart,C,CED,F_ASSETS,N
+EPIC07,MAIN,10900,Asset Clearing,,Chart,D,AC,F_ASSETS,N
+EPIC07,MAIN,11000,Investments,,Chart,C,INVT,EQUITY,N
+EPIC07,MAIN,12000,Inventory,,Chart,D,RMSK,CUR_ASSETS,N
+EPIC07,MAIN,12100,Work In Progress Stock,,Chart,D,WIP,CUR_ASSETS,N
+EPIC07,MAIN,12200,Finished Goods Stock,,Chart,D,FING,CUR_ASSETS,N
+EPIC07,MAIN,12300,Consumable Stock,,Chart,D,CSTK,CUR_ASSETS,N
+EPIC07,MAIN,12400,Inspection,,Chart,D,INSP,CUR_ASSETS,N
+EPIC07,MAIN,12500,Defective Material,,Chart,D,DMAT,CUR_ASSETS,N
+EPIC07,MAIN,12600,Manufacturing Variance,,Chart,D,MANV,CUR_ASSETS,N
+EPIC07,MAIN,12700,Stock Provision,,Chart,D,STKP,CUR_ASSETS,N
+EPIC07,MAIN,12800,Ar Clearing Account,,Chart,D,ARCA,CUR_ASSETS,N
+EPIC07,MAIN,13000,Receivables  Sales Ledger Control,,Chart,D,RSLC,CUR_ASSETS,N
+EPIC07,MAIN,13100,Advanced AR Billing,,Chart,D,DEFR,CUR_ASSETS,N
+EPIC07,MAIN,13200,Cash On Account,,Chart,D,CONA,CUR_ASSETS,N
+EPIC07,MAIN,13300,Sales & Credit Note Provisions,,Chart,D,SLPR,CUR_ASSETS,N
+EPIC07,MAIN,13400,Bad Doubtful Debt Provision,,Chart,D,BD,CUR_ASSETS,N
+EPIC07,MAIN,13450,Adv Billing Accrual-AP,,Chart,D,,CUR_ASSETS,N
+EPIC07,MAIN,13500,Prepayments,,Chart,D,PREP,CUR_ASSETS,N
+EPIC07,MAIN,13550,Prepayments Expense,,Chart,D,,CUR_ASSETS,N
+EPIC07,MAIN,13600,Retained Revenue,,Chart,D,RET,CUR_ASSETS,N
+EPIC07,MAIN,13700,Corporation Tax Recoverable,,Chart,D,,CUR_ASSETS,N
+EPIC07,MAIN,14000,Natwest Bank GBP Current,,Chart,D,CSH,CUR_ASSETS,N
+EPIC07,MAIN,14500,Petty Cash GBP Sterling,,Chart,D,PCSH,CUR_ASSETS,N
+EPIC07,MAIN,15000,NatWest Bank GBP Reserve,,Chart,D,,CUR_ASSETS,N
+EPIC07,MAIN,15500,NatWest Bank GBP Royalties,,Chart,D,,CUR_ASSETS,N
+EPIC07,MAIN,15600,NatWest Bank EUR Current,,Chart,D,,CUR_ASSETS,N
+EPIC07,MAIN,16000,NatWest Bank USD Account,,Chart,D,,CUR_ASSETS,N
+EPIC07,MAIN,16100,NatWest USD Account Revaluation Accrual,,Chart,D,,CUR_ASSETS,N
+EPIC07,MAIN,16500,Petty Cash USD US Dollar,Petty Cash USD $,Chart,D,,CUR_ASSETS,N
+EPIC07,MAIN,16550,Petty Cash CAD Canadian Dollars,Petty Cash CAN $,Chart,D,,CUR_ASSETS,N
+EPIC07,MAIN,16600,Petty Cash EUR Euro,Petty Cash Euro €,Chart,D,PCE,CUR_ASSETS,N
+EPIC07,MAIN,16700,Petty Cash SEK Swedish Krona,,Chart,D,,CUR_ASSETS,N
+EPIC07,MAIN,16800,Petty Cash THB Thai Baht,,Chart,D,,CUR_ASSETS,N
+EPIC07,MAIN,16900,Petty Cash EAD Emirati Dirhams,,Chart,D,EAD,CUR_ASSETS,N
+EPIC07,MAIN,17000,Company Credit Card Gary,Company Credit Card Gary,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,17100,Company Credit Card Ste,Company Credit Card Ste,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,17200,Company Credit Card Andy,Company Credit Card Andy,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,17300,Personal Credit Cards,Personal Credit Cards,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,20100,Trade Creditors  Purch.Ledg.Control,,Chart,C,TRCR,CUR_LIABIL,N
+EPIC07,MAIN,20200,Accruals-Goods Received Not Invoiced,,Chart,C,GRNI,CUR_LIABIL,N
+EPIC07,MAIN,20300,Trade Creditors Suspense (Logged Invoices),,Chart,C,TCSU,CUR_LIABIL,N
+EPIC07,MAIN,20400,Expense Suspense (Logged Invoices),,Chart,C,EXSU,CUR_LIABIL,N
+EPIC07,MAIN,20500,Accrued Expenses,,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,21000,Accruals - Drop Ship Clearing,,Chart,C,ACNS,CUR_LIABIL,N
+EPIC07,MAIN,21100,Accrual - Wages & Salaries,,Chart,C,ACWA,CUR_LIABIL,N
+EPIC07,MAIN,21200,Total Pension Liability,,Chart,C,PENS,CUR_LIABIL,N
+EPIC07,MAIN,21300,Union Deductions,,Chart,C,UNIO,CUR_LIABIL,N
+EPIC07,MAIN,21400,Court Orders,,Chart,C,CORD,CUR_LIABIL,N
+EPIC07,MAIN,21500,Tax   PAYE,,Chart,C,PAYE,CUR_LIABIL,N
+EPIC07,MAIN,21600,ERNIC Total,,Chart,C,NIC,CUR_LIABIL,N
+EPIC07,MAIN,21700,SSP   Deduction To Inl.Revenue,,Chart,C,SSP,CUR_LIABIL,N
+EPIC07,MAIN,21710,PAYE Control Account,,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,21720,Salaries Control Account,Salaries Control Account,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,21730,Pension Control,,Chart,C,,LIABILITIE,N
+EPIC07,MAIN,21800,Grant Liability - Ctl,,Chart,C,GRNT,CUR_LIABIL,N
+EPIC07,MAIN,22000,Lease Creditor - Carbon Trust,,Chart,C,CARB,CUR_LIABIL,N
+EPIC07,MAIN,22100,Lease Creditor - Hsbc,,Chart,C,HSBC,CUR_LIABIL,N
+EPIC07,MAIN,23000,Property Mortgage,,Chart,C,MORT,CUR_LIABIL,N
+EPIC07,MAIN,23200,DR-EXM-Epicor Solution Maintenanc,,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,23300,DR-MND-Development Maintenance,,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,23400,DR-MNS-Epicor ERP Maintenance,,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,23500,DR-MNT-Support Desk & Maintenance,,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,23600,DR-MSO-Solution Maintenance,,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,24100,V.A.T.   Input,,Chart,C,VATI,CUR_LIABIL,N
+EPIC07,MAIN,24200,V.A.T.   Output,,Chart,C,VATO,CUR_LIABIL,N
+EPIC07,MAIN,24300,V.A.T. Reconciliation,,Chart,C,VATR,CUR_LIABIL,N
+EPIC07,MAIN,24400,V.A.T. Suspense (Logged Invoices),,Chart,C,VATS,CUR_LIABIL,N
+EPIC07,MAIN,27000,Directors Loan Account GP,Directors Loan Account GP,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,27100,Directors Loan Account SE,Directors Loan Account SE,Chart,C,,CUR_LIABIL,N
+EPIC07,MAIN,28100,Corporation Taxation,,Chart,C,CTAX,CUR_LIABIL,N
+EPIC07,MAIN,28200,Deferred Tax,,Chart,C,DTAX,LT_LIABIL,N
+EPIC07,MAIN,30100,Called Up Share Capital,,Chart,C,SCAP,EQUITY,N
+EPIC07,MAIN,30200,Share Premium Account,,Chart,C,SPRE,EQUITY,N
+EPIC07,MAIN,30300,Capital Reserves,,Chart,C,CAPR,EQUITY,N
+EPIC07,MAIN,30400,Retained Profit,,Chart,C,RETP,PROFIT,N
+EPIC07,MAIN,40100,Sales-Consultancy & Education,,Chart,C,SALC,SALES_REPS,N
+EPIC07,MAIN,40200,Sales-Support Desk & Maintenance,,Chart,C,SALI,SALES_RESU,N
+EPIC07,MAIN,40300,Sales-Technical Product Sales,,Chart,C,SALH,SALES_REPR,N
+EPIC07,MAIN,40400,Sales-Technical Infrastructure Projects,,Chart,C,SALP,SALES_REPS,N
+EPIC07,MAIN,40500,Sales-Development Sales,,Chart,C,SALD,SALES_REPS,N
+EPIC07,MAIN,40600,Sales-Solution Sales,,Chart,C,SALR,SALES_REPR,N
+EPIC07,MAIN,40700,Sales-Development Maintenance,,Chart,C,SALM,SALES_RESU,N
+EPIC07,MAIN,40800,Sales-Solution Maintenance,,Chart,C,,SALES_RESU,N
+EPIC07,MAIN,41000,Sales-ERP Software Sales,,Chart,C,SALS,SALES_REPR,N
+EPIC07,MAIN,41100,Sales-ERP Software Maintenance,,Chart,C,ERPM,SALES_RESU,N
+EPIC07,MAIN,41200,Sales-Administration,,Chart,C,SAD,SALES_REPR,N
+EPIC07,MAIN,50100,COS-Consultancy & Education,,Chart,D,COSC,C_O_SPS,N
+EPIC07,MAIN,50200,COS-Support Desk & Maintenance,,Chart,D,COSI,C_O_SSU,N
+EPIC07,MAIN,50300,COS-Technical Product Sales,,Chart,D,COSH,C_O_SPR,N
+EPIC07,MAIN,50400,COS-Technical Infrastructure,,Chart,D,COSP,C_O_SPS,N
+EPIC07,MAIN,50500,COS-Development,,Chart,D,COSD,C_O_SPS,N
+EPIC07,MAIN,50600,COS-Solution & DMT Investment,,Chart,D,COSR,C_O_SPR,N
+EPIC07,MAIN,50700,COS-Development Maintenance,,Chart,D,COSM,C_O_SSU,N
+EPIC07,MAIN,50800,COS-Soluton Maintenance,,Chart,D,COSE,C_O_SSU,N
+EPIC07,MAIN,50900,Applied Material Burden,,Chart,D,APBU,COS_GDS,N
+EPIC07,MAIN,51000,COS-ERP Software Sales,,Chart,D,DESA,C_O_SPR,N
+EPIC07,MAIN,51100,COS-ERP Software Maintenance,,Chart,D,PROV,C_O_SSU,N
+EPIC07,MAIN,51200,Stock Adjustments,,Chart,D,STKA,COS_OPR,N
+EPIC07,MAIN,51300,Defective Material Write Off,,Chart,D,DMWO,COS_OPR,N
+EPIC07,MAIN,51400,Purchase Price Variance,,Chart,D,PPVA,COS_OPR,N
+EPIC07,MAIN,51500,Manufacturing Variance,,Chart,D,,COS_OPR,N
+EPIC07,MAIN,51900,Applied Material Burden,,Chart,D,AMTB,COS_OPR,N
+EPIC07,MAIN,52000,DMT Solution Development,,Chart,D,,C_O_SPR,N
+EPIC07,MAIN,52100,Internal Education Time,,Chart,D,,COS_EDU,N
+EPIC07,MAIN,52400,Third Party Education Costs,,Chart,D,,COS_EDU,N
+EPIC07,MAIN,52500,Logged Holiday/Sickness Time,,Chart,D,,COS_EDU,N
+EPIC07,MAIN,52600,Internal Administration Time,,Chart,D,,COS_EDU,N
+EPIC07,MAIN,52700,Support Desk & Customer Engagement,,Chart,D,,COS_EDU,N
+EPIC07,MAIN,52800,Internal Travel Time,,Chart,D,,COS_EDU,N
+EPIC07,MAIN,60000,Applied Labour,,Chart,D,APLA,COS_LAB,N
+EPIC07,MAIN,60100,Direct Salaries Gross,,Chart,D,DIRW,COS_LAB,N
+EPIC07,MAIN,60150,Overtime,,Chart,D,,COS_LAB,N
+EPIC07,MAIN,60160,Car Allowance,,Chart,D,,COS_LAB,N
+EPIC07,MAIN,60170,Commission,,Chart,D,,COS_LAB,N
+EPIC07,MAIN,60200,Direct Salaries Nic,,Chart,D,DNIC,COS_LAB,N
+EPIC07,MAIN,60300,Direct Salaries Pension,,Chart,D,DPEN,COS_LAB,N
+EPIC07,MAIN,60400,Direct Salaries Holiday Pay,,Chart,D,DHOL,COS_LAB,N
+EPIC07,MAIN,60500,Direct Salaries Sick Pay,,Chart,D,DSIC,COS_LAB,N
+EPIC07,MAIN,60600,Direct Salaries Child Vouchers,,Chart,D,DOTH,COS_LAB,N
+EPIC07,MAIN,60650,Direct Salaries Life Assurance,Direct Salaries Life Assurance,Chart,D,,COS_LAB,N
+EPIC07,MAIN,60700,Associate Costs,,Chart,D,DTEM,COS_LAB,N
+EPIC07,MAIN,60800,Administration Salaries Gross,Administration Salaries Gross,Chart,D,,EXP_OTH,N
+EPIC07,MAIN,70100,Applied Overhead,,Chart,D,APOH,EXP_OPR,N
+EPIC07,MAIN,70200,Machinery Maintenance,,Chart,D,PMAI,EXP_OPR,N
+EPIC07,MAIN,70500,Machine Hire,,Chart,D,MHIR,EXP_OPR,N
+EPIC07,MAIN,70600,"Tools, Equipment & Accessories",,Chart,D,CWHL,EXP_OPR,N
+EPIC07,MAIN,71000,General Supplies,,Chart,D,GENS,EXP_OPR,N
+EPIC07,MAIN,71100,Light Bulbs And Tubes,,Chart,D,LIGH,EXP_OPR,N
+EPIC07,MAIN,72000,Packing Materials,,Chart,D,PACK,EXP_OPR,N
+EPIC07,MAIN,72100,Carriage,,Chart,D,CARR,EXP_OPR,N
+EPIC07,MAIN,72200,Sales Commssion,,Chart,D,ACOM,EXP_OPR,N
+EPIC07,MAIN,72300,Electricity,,Chart,D,ELEC,EXP_OPR,N
+EPIC07,MAIN,72400,Gas,,Chart,D,GAS,EXP_OPR,N
+EPIC07,MAIN,72500,Water,,Chart,D,WAT,EXP_OPR,N
+EPIC07,MAIN,81000,Management Salaries Gross,,Chart,D,MNDW,EXP-MGT,N
+EPIC07,MAIN,81100,Management Salaries Nic,,Chart,D,MNIC,EXP-MGT,N
+EPIC07,MAIN,81200,Management Salaries Pension,,Chart,D,MPEN,EXP-MGT,N
+EPIC07,MAIN,81300,Management Salaries Holiday Pay,,Chart,D,MHOL,EXP-MGT,N
+EPIC07,MAIN,81400,Management Salaries Sick Pay,,Chart,D,MSIC,EXP-MGT,N
+EPIC07,MAIN,81500,Management Salaries Other,,Chart,D,MOTH,EXP-MGT,N
+EPIC07,MAIN,81550,Private Health Care,,Chart,D,,EXP-MGT,N
+EPIC07,MAIN,81600,Associate Management Salaries,,Chart,D,MTEM,EXP-MGT,N
+EPIC07,MAIN,81700,Director`s Remuneration,,Chart,D,DIRR,EXP-MGT,N
+EPIC07,MAIN,82000,Asset Depreciation,,Chart,D,P&MD,EXP-OFE,N
+EPIC07,MAIN,83000,Office Equipment,,Chart,D,OEQU,EXP-OFE,N
+EPIC07,MAIN,83100,Office Equipment Maintenance,,Chart,D,OEMA,EXP-OFE,N
+EPIC07,MAIN,83200,Office Equipment and Room Rental,,Chart,D,OERE,EXP-OFE,N
+EPIC07,MAIN,83300,Building Maintenance,,Chart,D,BMAI,EXP-OFE,N
+EPIC07,MAIN,83400,Site Security,,Chart,D,SECU,EXP-OFE,N
+EPIC07,MAIN,83500,Rubbish Removal,,Chart,D,RUBI,EXP-OFE,N
+EPIC07,MAIN,83600,Cleaning,,Chart,D,CLEA,EXP-OFE,N
+EPIC07,MAIN,83700,"Health & Safety, Fire Safety and Clothing",,Chart,D,SAFE,EXP-OFE,N
+EPIC07,MAIN,83800,Medical First Aid,,Chart,D,MEDI,EXP-OFE,N
+EPIC07,MAIN,83900,Office Consumables,,Chart,D,REFR,EXP-OFE,N
+EPIC07,MAIN,84000,Printing And Stationery,,Chart,D,PRNT,EXP-OFE,N
+EPIC07,MAIN,84100,Telephone & Internet,,Chart,D,TEL,EXP-OFE,N
+EPIC07,MAIN,84200,Mobile Telephone,,Chart,D,MTEL,EXP-OFE,N
+EPIC07,MAIN,84300,Postage,,Chart,D,POST,EXP-OFE,N
+EPIC07,MAIN,84400,Donations,,Chart,D,DONS,EXP-OFE,N
+EPIC07,MAIN,84500,Combined Company Insurance,,Chart,D,INSU,EXP-OFE,N
+EPIC07,MAIN,84600,Rent & Rates,,Chart,D,RENT,EXP-OFE,N
+EPIC07,MAIN,84700,Legal - Contracts,,Chart,D,LCON,EXP-PRF,N
+EPIC07,MAIN,84800,Legal - Employment,,Chart,D,LEMP,EXP-PRF,N
+EPIC07,MAIN,84900,Legal - Other,,Chart,D,LOTH,EXP-PRF,N
+EPIC07,MAIN,85000,Audit,,Chart,D,AUD,EXP-PRF,N
+EPIC07,MAIN,85100,Accountancy Costs,,Chart,D,ACC,EXP-PRF,N
+EPIC07,MAIN,85200,Consultancy Fees,,Chart,D,MONI,EXP-PRF,N
+EPIC07,MAIN,85400,Trade Subscriptions,,Chart,D,SUBS,EXP-PRF,N
+EPIC07,MAIN,85500,Management Education & Training,,Chart,D,TRN,EXP-PRF,N
+EPIC07,MAIN,85600,Travel - Air,,Chart,D,TAIR,EXP-TRL,N
+EPIC07,MAIN,85700,Travel - Train,,Chart,D,TTRA,EXP-TRL,N
+EPIC07,MAIN,85800,Travel - Mileage,,Chart,D,TMIL,EXP-TRL,N
+EPIC07,MAIN,85900,Travel - Hotel,,Chart,D,THTL,EXP-TRL,N
+EPIC07,MAIN,86000,Travel - Subsistence,,Chart,D,TSUB,EXP-TRL,N
+EPIC07,MAIN,86100,Travel - Parking,,Chart,D,TPRK,EXP-TRL,N
+EPIC07,MAIN,86200,Travel - Other,,Chart,D,TOTH,EXP-TRL,N
+EPIC07,MAIN,86300,Company Car - Lease Costs,,Chart,D,CARL,EXP-MTR,N
+EPIC07,MAIN,86400,Company Car - Petrol & Oil,,Chart,D,CARP,EXP-MTR,N
+EPIC07,MAIN,86500,Company Car - Repairs,,Chart,D,CARR,EXP-MTR,N
+EPIC07,MAIN,86600,Company Car - Licence,,Chart,D,CARL,EXP-MTR,N
+EPIC07,MAIN,86700,Vehicle Hire,,Chart,D,VHIR,EXP-MTR,N
+EPIC07,MAIN,86800,Entertaining - Employees,,Chart,D,ENTE,EXP-OFE,N
+EPIC07,MAIN,86900,Entertaining - Customers,,Chart,D,ENTC,EXP-MAR,N
+EPIC07,MAIN,87000,Advertising,,Chart,D,ADV,EXP-MAR,N
+EPIC07,MAIN,87010,Telemarketing,,Chart,D,ADVE,EXP-MAR,N
+EPIC07,MAIN,87020,Exhibiitions,,Chart,D,ADVE,EXP-MAR,N
+EPIC07,MAIN,87030,Group Memberships,,Chart,D,ADVE,EXP-MAR,N
+EPIC07,MAIN,87040,Search Engines/Adwords,,Chart,D,ADVE,EXP-MAR,N
+EPIC07,MAIN,87050,Website Costs,,Chart,D,WEB,EXP-MAR,N
+EPIC07,MAIN,87060,Mechandise,,Chart,D,MER,EXP-MAR,N
+EPIC07,MAIN,87100,Recruitment Costs,,Chart,D,RECR,EXP-REC,N
+EPIC07,MAIN,87200,Bank Charges,,Chart,D,BNKC,EXP_OTH,N
+EPIC07,MAIN,87300,Bad Debt Provision,,Chart,D,BDPR,EXP_OTH,N
+EPIC07,MAIN,87400,Computer - Hardware,,Chart,D,CH/W,EXP_OTH,N
+EPIC07,MAIN,87500,Computer - Software,,Chart,D,CS/W,EXP_OTH,N
+EPIC07,MAIN,87600,Computer - Software Maintenance,,Chart,D,CMAI,EXP_OTH,N
+EPIC07,MAIN,87800,Management Services Charge,,Chart,D,MSCH,EXP_OTH,N
+EPIC07,MAIN,87900,Other Overheads,,Chart,D,OTHE,EXP_OTH,N
+EPIC07,MAIN,90000,Redundancy Costs,,Chart,D,REDU,X_INC_EXP,N
+EPIC07,MAIN,90100,Profit/Loss On Disposal Of Fixed Assets,,Chart,D,DISP,X_INC_EXP,N
+EPIC07,MAIN,91000,Exchange Rate Differences - Realised,,Chart,D,ERDR,X_INC_EXP,N
+EPIC07,MAIN,91100,Exchange Rate Differences - Unrealised,,Chart,D,ERDU,X_INC_EXP,N
+EPIC07,MAIN,92000,Interest Cost - Bank,,Chart,D,INTB,X_INC_EXP,N
+EPIC07,MAIN,92100,Interest Cost - Leasing,,Chart,D,INTL,X_INC_EXP,N
+EPIC07,MAIN,92200,Interest Cost - Other,,Chart,D,INTO,X_INC_EXP,N
+EPIC07,MAIN,93000,Interest Receivable - Bank,,Chart,D,IRB,X_INC_EXP,N
+EPIC07,MAIN,93100,Interest Receivable - Other,,Chart,D,IRO,X_INC_EXP,N
+EPIC07,MAIN,95000,Corporation Tax - Current,,Chart,D,CTC,TAX_PROVIS,N
+EPIC07,MAIN,95100,Corporation Tax - Prior Year,,Chart,D,CTPY,TAX_PROVIS,N
+EPIC07,MAIN,95500,Deferred Tax - Current,,Chart,D,DTCU,TAX_PROVIS,N
+EPIC07,MAIN,95600,Deferred Tax -Prior Year,,Chart,D,DTPY,TAX_PROVIS,N
+EPIC07,MAIN,96000,Dividends,,Chart,C,DIVI,EQUITY,N
+EPIC07,MAIN,000,Department,,Department,,DIVI,,N
+EPIC07,MAIN,00,Division,,Division,,DPT,,N

@@ -1,0 +1,190 @@
+Company,COACode,GLAccount,AccountDesc
+EPIC07,MAIN,10100,Land & Buildings
+EPIC07,MAIN,10110,Land & Buildings Depreciation
+EPIC07,MAIN,10200,Plant & Machinery
+EPIC07,MAIN,10210,Plant & Machinery  Depreciation
+EPIC07,MAIN,10400,Motor Vehicles
+EPIC07,MAIN,10410,Motor Vehicle  Depreciation
+EPIC07,MAIN,10500,Fixtures Fittings & Office Equipment
+EPIC07,MAIN,10510,F.& F.& Office Equipment Depreciati
+EPIC07,MAIN,10600,Computer Equipment
+EPIC07,MAIN,10610,Computer Equipment  Depreciation
+EPIC07,MAIN,10900,Asset Clearing
+EPIC07,MAIN,11000,Investments
+EPIC07,MAIN,12000,Inventory
+EPIC07,MAIN,12100,Work In Progress Stock
+EPIC07,MAIN,12200,Finished Goods Stock
+EPIC07,MAIN,12300,Consumable Stock
+EPIC07,MAIN,12400,Inspection
+EPIC07,MAIN,12500,Defective Material
+EPIC07,MAIN,12600,Manufacturing Variance
+EPIC07,MAIN,12700,Stock Provision
+EPIC07,MAIN,12800,Ar Clearing Account
+EPIC07,MAIN,13000,Receivables  Sales Ledger Control
+EPIC07,MAIN,13100,Advanced AR Billing
+EPIC07,MAIN,13200,Cash On Account
+EPIC07,MAIN,13300,Sales & Credit Note Provisions
+EPIC07,MAIN,13400,Bad Doubtful Debt Provision
+EPIC07,MAIN,13450,Adv Billing AccrualAP
+EPIC07,MAIN,13500,Prepayments
+EPIC07,MAIN,13550,Prepayments Expense
+EPIC07,MAIN,13600,Retained Revenue
+EPIC07,MAIN,13700,Corporation Tax Recoverable
+EPIC07,MAIN,14000,Current Bank Account 1
+EPIC07,MAIN,15000,Currency Bank Account 1
+EPIC07,MAIN,16000,Petty Cash 1
+EPIC07,MAIN,17000,Credit Card Account 1
+EPIC07,MAIN,20100,Trade Creditors  Purch.Ledg.Control
+EPIC07,MAIN,20200,AccrualsGoods Received Not Invoiced
+EPIC07,MAIN,20300,Trade Creditors Suspense (Logged Invoices)
+EPIC07,MAIN,20400,Expense Suspense (Logged Invoices)
+EPIC07,MAIN,20500,Accrued Expenses
+EPIC07,MAIN,21000,Accruals  Drop Ship Clearing
+EPIC07,MAIN,21100,Accrual  Wages & Salaries
+EPIC07,MAIN,21200,Total Pension Liability
+EPIC07,MAIN,21300,Union Deductions
+EPIC07,MAIN,21400,Court Orders
+EPIC07,MAIN,21500,Tax   PAYE
+EPIC07,MAIN,21600,ERNIC Total
+EPIC07,MAIN,21700,SSP   Deduction To Inl.Revenue
+EPIC07,MAIN,21710,PAYE Control Account
+EPIC07,MAIN,21720,Salaries Control Account
+EPIC07,MAIN,21730,Pension Control
+EPIC07,MAIN,21800,Grant Liability  Ctl
+EPIC07,MAIN,22000,Lease Creditor  Carbon Trust
+EPIC07,MAIN,22100,Lease Creditor  Hsbc
+EPIC07,MAIN,23000,Property Mortgage
+EPIC07,MAIN,23200,DREXMEpicor Solution Maintenanc
+EPIC07,MAIN,23300,DRMNDDevelopment Maintenance
+EPIC07,MAIN,23400,DRMNSEpicor ERP Maintenance
+EPIC07,MAIN,23500,DRMNTSupport Desk & Maintenance
+EPIC07,MAIN,23600,DRMSOSolution Maintenance
+EPIC07,MAIN,24100,V.A.T.   Input
+EPIC07,MAIN,24200,V.A.T.   Output
+EPIC07,MAIN,24300,V.A.T. Reconciliation
+EPIC07,MAIN,24400,V.A.T. Suspense (Logged Invoices)
+EPIC07,MAIN,27000,Directors Loan Account GP
+EPIC07,MAIN,27100,Directors Loan Account SE
+EPIC07,MAIN,28100,Corporation Taxation
+EPIC07,MAIN,28200,Deferred Tax
+EPIC07,MAIN,30100,Called Up Share Capital
+EPIC07,MAIN,30200,Share Premium Account
+EPIC07,MAIN,30300,Capital Reserves
+EPIC07,MAIN,30400,Retained Profit
+EPIC07,MAIN,40100|00|000,SalesAccount 1
+EPIC07,MAIN,40200|00|000,SalesAccount 2
+EPIC07,MAIN,40300|00|000,SalesAccount 3
+EPIC07,MAIN,40400|00|000,SalesAccount 4
+EPIC07,MAIN,50100|00|000,COSAccount 1
+EPIC07,MAIN,50200|00|000,COSAccount 2
+EPIC07,MAIN,50300|00|000,COSAccount 3
+EPIC07,MAIN,50400|00|000,COSAccount 4
+EPIC07,MAIN,51200|00|000,Stock Adjustments
+EPIC07,MAIN,51300|00|000,Defective Material Write Off
+EPIC07,MAIN,51400|00|000,Purchase Price Variance
+EPIC07,MAIN,51500|00|000,Manufacturing Variance
+EPIC07,MAIN,51900|00|000,Applied Material Burden
+EPIC07,MAIN,52000|00|000,Indirect Time
+EPIC07,MAIN,52100|00|000,Education Time
+EPIC07,MAIN,52400|00|000,Education Costs Direct
+EPIC07,MAIN,52600|00|000,Internal Administration Time
+EPIC07,MAIN,60000|00|000,Applied Labour
+EPIC07,MAIN,60100|00|000,Direct Salaries Gross
+EPIC07,MAIN,60150|00|000,Overtime
+EPIC07,MAIN,60160|00|000,Car Allowance
+EPIC07,MAIN,60170|00|000,Commission
+EPIC07,MAIN,60200|00|000,Direct Salaries Nic
+EPIC07,MAIN,60300|00|000,Direct Salaries Pension
+EPIC07,MAIN,60400|00|000,Direct Salaries Holiday Pay
+EPIC07,MAIN,60500|00|000,Direct Salaries Sick Pay
+EPIC07,MAIN,60600|00|000,Direct Salaries Child Vouchers
+EPIC07,MAIN,60650|00|000,Direct Salaries Life Assurance
+EPIC07,MAIN,60700|00|000,Associate Costs
+EPIC07,MAIN,60800|00|000,Administration Salaries Gross
+EPIC07,MAIN,70100|00|000,Applied Overhead
+EPIC07,MAIN,70200|00|000,Machinery Maintenance
+EPIC07,MAIN,70500|00|000,Machine Hire
+EPIC07,MAIN,70600|00|000,Tools and Equipment
+EPIC07,MAIN,71000|00|000,General Supplies
+EPIC07,MAIN,71100|00|000,Light Bulbs And Tubes
+EPIC07,MAIN,72000|00|000,Packing Materials
+EPIC07,MAIN,72100|00|000,Carriage
+EPIC07,MAIN,72200|00|000,Sales Commssion
+EPIC07,MAIN,72300|00|000,Electricity
+EPIC07,MAIN,72400|00|000,Gas
+EPIC07,MAIN,72500|00|000,Water
+EPIC07,MAIN,81000|00|000,Management Salaries Gross
+EPIC07,MAIN,81100|00|000,Management Salaries Nic
+EPIC07,MAIN,81200|00|000,Management Salaries Pension
+EPIC07,MAIN,81300|00|000,Management Salaries Holiday Pay
+EPIC07,MAIN,81400|00|000,Management Salaries Sick Pay
+EPIC07,MAIN,81500|00|000,Management Salaries Other
+EPIC07,MAIN,81550|00|000,Private Health Care
+EPIC07,MAIN,81700|00|000,Director`s Remuneration
+EPIC07,MAIN,82000|00|000,Asset Depreciation
+EPIC07,MAIN,83000|00|000,Office Equipment
+EPIC07,MAIN,83100|00|000,Office Equipment Maintenance
+EPIC07,MAIN,83300|00|000,Building Maintenance
+EPIC07,MAIN,83400|00|000,Site Security
+EPIC07,MAIN,83500|00|000,Rubbish Removal
+EPIC07,MAIN,83600|00|000,Cleaning
+EPIC07,MAIN,83700|00|000,"Health & Safety, Fire Safety and Clothing"
+EPIC07,MAIN,83800|00|000,Medical First Aid
+EPIC07,MAIN,83900|00|000,Office Consumables
+EPIC07,MAIN,84000|00|000,Printing And Stationery
+EPIC07,MAIN,84100|00|000,Telephone & Internet
+EPIC07,MAIN,84200|00|000,Mobile Telephone
+EPIC07,MAIN,84300|00|000,Postage
+EPIC07,MAIN,84400|00|000,Donations
+EPIC07,MAIN,84500|00|000,Combined Company Insurance
+EPIC07,MAIN,84600|00|000,Rent & Rates
+EPIC07,MAIN,84700|00|000,Legal  Contracts
+EPIC07,MAIN,84800|00|000,Legal  Employment
+EPIC07,MAIN,84900|00|000,Legal  Other
+EPIC07,MAIN,85000|00|000,Audit
+EPIC07,MAIN,85100|00|000,Accountancy Costs
+EPIC07,MAIN,85200|00|000,Consultancy Fees
+EPIC07,MAIN,85400|00|000,Trade Subscriptions
+EPIC07,MAIN,85500|00|000,Management Education & Training
+EPIC07,MAIN,85600|00|000,Travel  Air
+EPIC07,MAIN,85700|00|000,Travel  Train
+EPIC07,MAIN,85800|00|000,Travel  Mileage
+EPIC07,MAIN,85900|00|000,Travel  Hotel
+EPIC07,MAIN,86000|00|000,Travel  Subsistence
+EPIC07,MAIN,86100|00|000,Travel  Parking
+EPIC07,MAIN,86200|00|000,Travel  Other
+EPIC07,MAIN,86300|00|000,Company Car  Lease Costs
+EPIC07,MAIN,86400|00|000,Company Car  Petrol & Oil
+EPIC07,MAIN,86500|00|000,Company Car  Repairs
+EPIC07,MAIN,86600|00|000,Company Car  Licence
+EPIC07,MAIN,86700|00|000,Vehicle Hire
+EPIC07,MAIN,86800|00|000,Entertaining  Employees
+EPIC07,MAIN,86900|00|000,Entertaining  Customers
+EPIC07,MAIN,87000|00|000,Advertising
+EPIC07,MAIN,87010|00|000,Telemarketing
+EPIC07,MAIN,87020|00|000,Exhibiitions
+EPIC07,MAIN,87030|00|000,Group Memberships
+EPIC07,MAIN,87040|00|000,Search Engines/Adwords
+EPIC07,MAIN,87050|00|000,Website Costs
+EPIC07,MAIN,87060|00|000,MechandiseHASDeve
+EPIC07,MAIN,87100|00|000,Recruitment Costs
+EPIC07,MAIN,87200|00|000,Bank Charges
+EPIC07,MAIN,87300|00|000,Bad Debt Provision
+EPIC07,MAIN,87400|00|000,Computer  Hardware
+EPIC07,MAIN,87500|00|000,Computer  Software
+EPIC07,MAIN,87600|00|000,Computer  Software Maintenance
+EPIC07,MAIN,87800|00|000,Management Services Charge
+EPIC07,MAIN,87900|00|000,Other Overheads
+EPIC07,MAIN,90000|00|000,Redundancy Costs
+EPIC07,MAIN,90100|00|000,Profit/Loss On Disposal Of Fixed Assets
+EPIC07,MAIN,91000|00|000,Exchange Rate Differences  Realised
+EPIC07,MAIN,91100|00|000,Exchange Rate Differences  Unrealised
+EPIC07,MAIN,92000|00|000,Interest Cost  Bank
+EPIC07,MAIN,92100|00|000,Interest Cost  Leasing
+EPIC07,MAIN,92200|00|000,Interest Cost  Other
+EPIC07,MAIN,93000|00|000,Interest Receivable  Bank
+EPIC07,MAIN,93100|00|000,Interest Receivable  Other
+EPIC07,MAIN,95000|00|000,Corporation Tax  Current
+EPIC07,MAIN,95100|00|000,Corporation Tax  Prior Year
+EPIC07,MAIN,95500|00|000,Deferred Tax  Current
+EPIC07,MAIN,95600|00|000,Deferred Tax Prior Year

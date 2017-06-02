@@ -1,0 +1,2 @@
+Company,BookID,Description,MainBook,COACode,CurrencyCode,BookType,FiscalCalendarID,REAccount,RESegValue1
+EPIC07,MAIN,Main Book,TRUE,MAIN,GBP,1,MAIN,30400,30400

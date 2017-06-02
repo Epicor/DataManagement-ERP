@@ -1,0 +1,43 @@
+Company,GLControlType,Description
+EPIC07,Alternative Deduction,Alternative Deduction
+EPIC07,AP Account,AP Account
+EPIC07,AR Account,AR Account
+EPIC07,Asset,Asset
+EPIC07,Asset Group,Asset Group
+EPIC07,Bank Account,Bank Account
+EPIC07,Bank Fee,Bank Fee
+EPIC07,Currency,Currency
+EPIC07,Deduction,Deduction
+EPIC07,Department,Department
+EPIC07,Division,Division
+EPIC07,Equipment Type,Equipment Type
+EPIC07,External Company,External Company
+EPIC07,Finance Charge,Finance Charge
+EPIC07,FS Call,FS Call
+EPIC07,FS Contract,FS Contract
+EPIC07,FS Warranty,Field Service Warranty
+EPIC07,Indirect Labor,Indirect Labor
+EPIC07,Inventory COS and WIP,"Inventory, COS and WIP"
+EPIC07,Job Shift Costing,Job Shift Costing
+EPIC07,Misc Charge(Purchase),Misc Charge(Purchase)
+EPIC07,Misc Charge(Sales),Misc Charge(Sales)
+EPIC07,Part,Part
+EPIC07,Part Class,Part Class
+EPIC07,Payment Instrument Payable,Payment Instrument Payable
+EPIC07,Payment Instrument Receivable,Payment Instrument Receivable
+EPIC07,Payment Type,Payment Type
+EPIC07,Payment Type - Labor Code,Payment Type - Labor Code
+EPIC07,Payroll Class Tax,Payroll Class Tax
+EPIC07,Payroll Tax,Payroll Tax
+EPIC07,PayType,Pay Type
+EPIC07,Person Liability,Person Liability
+EPIC07,Petty Cash Desk,Petty Cash Desk
+EPIC07,Petty Cash Operation Type,Petty Cash Operation Type
+EPIC07,Plant Transfer,Plant Transfer
+EPIC07,Product Group,Product Group
+EPIC07,Project Billing,Project Billing
+EPIC07,Project Control,Project Control
+EPIC07,Purchase Type,Purchase Type
+EPIC07,Reason Code,Reason Code
+EPIC07,Supplier,Supplier
+EPIC07,Tax,Tax

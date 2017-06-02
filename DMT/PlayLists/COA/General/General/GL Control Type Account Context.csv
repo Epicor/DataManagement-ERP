@@ -1,0 +1,287 @@
+Company,GLControlType,GLAcctContext,BookID,Required,AllBooks,UseMasterChart
+EPIC07,Alternative Deduction,Default,,0,1,0
+EPIC07,AP Account,Payables,,1,1,0
+EPIC07,AP Account,Payment Discount,,1,1,0
+EPIC07,AP Account,Expense,,1,1,0
+EPIC07,AP Account,Clearing,,0,1,0
+EPIC07,AP Account,Variance,,1,1,0
+EPIC07,AP Account,Advance Payment,,1,1,0
+EPIC07,AP Account,Integrated Payment,,0,1,0
+EPIC07,AP Account,Landed Cost,,0,1,0
+EPIC07,AP Account,Rounding Difference,,0,1,0
+EPIC07,AP Account,Payables Suspense,,0,1,0
+EPIC07,AP Account,Expense Suspense,,0,1,0
+EPIC07,AP Account,Tax Suspense,,0,1,0
+EPIC07,AP Account,Revaluation Accrual,,0,1,0
+EPIC07,AP Account,Prepayment,,1,1,0
+EPIC07,AP Account,AP Account,,0,1,0
+EPIC07,AR Account,Receivables,,1,1,0
+EPIC07,AR Account,Sales,,1,1,0
+EPIC07,AR Account,Returns,,1,1,0
+EPIC07,AR Account,Sales Discount,,1,1,0
+EPIC07,AR Account,Prepayment,,1,1,0
+EPIC07,AR Account,Unapplied Cash,,1,1,0
+EPIC07,AR Account,Deferred Revenue,,1,1,0
+EPIC07,AR Account,Payment Discount,,1,1,0
+EPIC07,AR Account,Rebate,,0,1,0
+EPIC07,AR Account,Integrated Payment,,0,1,0
+EPIC07,AR Account,COS Material,,0,1,0
+EPIC07,AR Account,COS Labor,,0,1,0
+EPIC07,AR Account,COS Burden,,0,1,0
+EPIC07,AR Account,COS Subcontract,,0,1,0
+EPIC07,AR Account,COS Material Burden,,0,1,0
+EPIC07,AR Account,COS Rounding,,0,1,0
+EPIC07,AR Account,Rounding Difference,,0,1,0
+EPIC07,AR Account,Revaluation Accrual,,0,1,0
+EPIC07,AR Account,PB Accrued Sales Recognized,,0,1,0
+EPIC07,AR Account,PB Retained Revenue,,0,1,0
+EPIC07,AR Account,Return Discount,,0,1,0
+EPIC07,AR Account,Deferred Returns,,0,1,0
+EPIC07,AR Account,Invoiced Deposits,,1,1,0
+EPIC07,Asset,Asset Clearing,,1,1,0
+EPIC07,Asset Group,Depreciation Provision,,1,1,0
+EPIC07,Asset Group,Depreciation Charge,,1,1,0
+EPIC07,Asset Group,Addition Provision,,1,1,0
+EPIC07,Asset Group,Disposal Cost,,1,1,0
+EPIC07,Asset Group,Disposal Provision,,1,1,0
+EPIC07,Asset Group,Disposal Gain/Loss,,1,1,0
+EPIC07,Asset Group,Asset Cost,,1,1,0
+EPIC07,Asset Group,Grant,,0,1,0
+EPIC07,Asset Group,Impairment Control,,0,1,0
+EPIC07,Asset Group,Unrecognized Grant,,0,1,0
+EPIC07,Asset Group,Provision Control,,0,1,0
+EPIC07,Asset Group,Grant Control,,0,1,0
+EPIC07,Asset Group,Asset Cost,,1,1,0
+EPIC07,Bank Account,Cash,,1,1,0
+EPIC07,Bank Account,AP Pending Cash,,0,1,0
+EPIC07,Bank Account,AR Pending Cash,,0,1,0
+EPIC07,Bank Account,Bank Fee,,0,1,0
+EPIC07,Bank Account,Variance,,0,1,0
+EPIC07,Bank Account,Transfer,,0,1,0
+EPIC07,Bank Fee,Bank Fee,,0,1,0
+EPIC07,Currency,Realized Gain,,1,1,0
+EPIC07,Currency,Realized Loss,,1,1,0
+EPIC07,Currency,Unrealized Gain,,1,1,0
+EPIC07,Currency,Unrealized Loss,,1,1,0
+EPIC07,Deduction,Accrual Account,,1,1,0
+EPIC07,Deduction,Expense Account,,0,1,0
+EPIC07,Department,Department,,0,1,0
+EPIC07,Division,Division,,1,1,0
+EPIC07,Equipment Type,Maintenance Expense,,0,1,0
+EPIC07,External Company,AP Intercompany,,0,1,0
+EPIC07,External Company,AR Intercompany,,0,1,0
+EPIC07,External Company,GL Intercompany,,0,1,0
+EPIC07,Finance Charge,Finance Charge,,0,1,0
+EPIC07,FS Call,Default,,0,1,0
+EPIC07,FS Call,Sales,,0,1,0
+EPIC07,FS Call,Sales Discount,,0,1,0
+EPIC07,FS Call,Returns,,0,1,0
+EPIC07,FS Call,COS Material,,0,1,0
+EPIC07,FS Call,COS Labor,,0,1,0
+EPIC07,FS Call,COS Burden,,0,1,0
+EPIC07,FS Call,COS Subcontract,,0,1,0
+EPIC07,FS Call,COS Material Burden,,0,1,0
+EPIC07,FS Call,COS Rounding,,0,1,0
+EPIC07,FS Call,WIP Material,,0,1,0
+EPIC07,FS Call,WIP Labor,,0,1,0
+EPIC07,FS Call,WIP Burden,,0,1,0
+EPIC07,FS Call,WIP Subcontract,,0,1,0
+EPIC07,FS Call,WIP Material Burden,,0,1,0
+EPIC07,FS Call,WIP Rounding,,0,1,0
+EPIC07,FS Call,Return Discount,,0,1,0
+EPIC07,FS Call,Deferred Revenue,,1,1,0
+EPIC07,FS Contract,Default,,0,1,0
+EPIC07,FS Contract,Sales,,0,1,0
+EPIC07,FS Contract,Sales Discount,,0,1,0
+EPIC07,FS Contract,Returns,,0,1,0
+EPIC07,FS Contract,COS Material,,0,1,0
+EPIC07,FS Contract,COS Labor,,0,1,0
+EPIC07,FS Contract,COS Burden,,0,1,0
+EPIC07,FS Contract,COS Subcontract,,0,1,0
+EPIC07,FS Contract,COS Material Burden,,0,1,0
+EPIC07,FS Contract,COS Rounding,,0,1,0
+EPIC07,FS Contract,WIP Material,,0,1,0
+EPIC07,FS Contract,WIP Labor,,0,1,0
+EPIC07,FS Contract,WIP Burden,,0,1,0
+EPIC07,FS Contract,WIP Subcontract,,0,1,0
+EPIC07,FS Contract,WIP Material Burden,,0,1,0
+EPIC07,FS Contract,WIP Rounding,,0,1,0
+EPIC07,FS Contract,Return Discount,,0,1,0
+EPIC07,FS Contract,Deferred Revenue,,1,1,0
+EPIC07,FS Warranty,COS Material,,1,1,0
+EPIC07,FS Warranty,COS Labor,,1,1,0
+EPIC07,FS Warranty,COS Burden,,1,1,0
+EPIC07,FS Warranty,COS Subcontract,,1,1,0
+EPIC07,FS Warranty,COS Material Burden,,1,1,0
+EPIC07,FS Warranty,COS Rounding,,1,1,0
+EPIC07,FS Warranty,WIP Material,,1,1,0
+EPIC07,FS Warranty,WIP Labor,,1,1,0
+EPIC07,FS Warranty,WIP Burden,,1,1,0
+EPIC07,FS Warranty,WIP Subcontract,,1,1,0
+EPIC07,FS Warranty,WIP Material Burden,,1,1,0
+EPIC07,FS Warranty,WIP Rounding,,1,1,0
+EPIC07,Indirect Labor,COS Labor,,1,1,0
+EPIC07,Indirect Labor,COS Material,,1,1,0
+EPIC07,Indirect Labor,COS Burden,,1,1,0
+EPIC07,Indirect Labor,COS Subcontract,,0,1,0
+EPIC07,Indirect Labor,COS Material Burden,,1,1,0
+EPIC07,Indirect Labor,COS Rounding,,1,1,0
+EPIC07,Indirect Labor,WIP Labor,,0,1,0
+EPIC07,Indirect Labor,WIP Material,,0,1,0
+EPIC07,Indirect Labor,WIP Burden,,0,1,0
+EPIC07,Indirect Labor,WIP Subcontract,,0,1,0
+EPIC07,Indirect Labor,WIP Material Burden,,0,1,0
+EPIC07,Indirect Labor,WIP Rounding,,0,1,0
+EPIC07,Indirect Labor,Applied Overhead,,0,1,0
+EPIC07,Indirect Labor,Applied Labor,,0,1,0
+EPIC07,Inventory COS and WIP,AR Clearing,,0,1,0
+EPIC07,Inventory COS and WIP,Applied Overhead,,1,1,0
+EPIC07,Inventory COS and WIP,Cost of Returns,,1,1,0
+EPIC07,Inventory COS and WIP,Inventory,,1,1,0
+EPIC07,Inventory COS and WIP,Inventory Adjustment,,1,1,0
+EPIC07,Inventory COS and WIP,Inspection,,0,1,0
+EPIC07,Inventory COS and WIP,DMR,,1,1,0
+EPIC07,Inventory COS and WIP,DMR Write Off,,1,1,0
+EPIC07,Inventory COS and WIP,Applied Labor,,1,1,0
+EPIC07,Inventory COS and WIP,AP Clearing,,1,1,0
+EPIC07,Inventory COS and WIP,Variance,,1,1,0
+EPIC07,Inventory COS and WIP,Applied Material Burden,,1,1,0
+EPIC07,Inventory COS and WIP,Drop Shipment,,0,1,0
+EPIC07,Inventory COS and WIP,COS Material,,1,1,0
+EPIC07,Inventory COS and WIP,COS Labor,,1,1,0
+EPIC07,Inventory COS and WIP,COS Burden,,1,1,0
+EPIC07,Inventory COS and WIP,COS Subcontract,,1,1,0
+EPIC07,Inventory COS and WIP,COS Material Burden,,1,1,0
+EPIC07,Inventory COS and WIP,COS Rounding,,1,1,0
+EPIC07,Inventory COS and WIP,WIP Material,,1,1,0
+EPIC07,Inventory COS and WIP,WIP Labor,,1,1,0
+EPIC07,Inventory COS and WIP,WIP Burden,,1,1,0
+EPIC07,Inventory COS and WIP,WIP Subcontract,,1,1,0
+EPIC07,Inventory COS and WIP,WIP Material Burden,,1,1,0
+EPIC07,Inventory COS and WIP,WIP Rounding,,1,1,0
+EPIC07,Inventory COS and WIP,Maintenance Expense,,0,1,0
+EPIC07,Job Shift Costing,Default,,0,1,0
+EPIC07,Misc Charge(Purchase),Expense,,0,1,0
+EPIC07,Misc Charge(Sales),Income,,0,1,0
+EPIC07,Part,Inventory/Expense,,0,1,0
+EPIC07,Part Class,Inventory/Expense,,0,1,0
+EPIC07,Part Class,Inspection,,0,1,0
+EPIC07,Part Class,DMR,,0,1,0
+EPIC07,Part Class,DMR Write Off,,0,1,0
+EPIC07,Part Class,Purchase Price Variance,,0,1,0
+EPIC07,Part Class,Transfer Cost Variance,,0,1,0
+EPIC07,Part Class,Drop Shipment,,0,1,0
+EPIC07,Payment Instrument Payable,PI Payable,,1,1,0
+EPIC07,Payment Instrument Payable,Revaluation Accrual,,0,1,0
+EPIC07,Payment Instrument Receivable,PI Receivable,,1,1,0
+EPIC07,Payment Instrument Receivable,Revaluation Accrual,,0,1,0
+EPIC07,Payment Instrument Receivable,Unapplied PI,,1,1,0
+EPIC07,Payment Type,Default,,1,1,0
+EPIC07,Payment Type - Labor Code,Default,,1,1,0
+EPIC07,Payroll Class Tax,Default,,0,1,0
+EPIC07,Payroll Tax,Accrual Account,,1,1,0
+EPIC07,Payroll Tax,Expense Account,,0,1,0
+EPIC07,PayType,Default,,1,1,0
+EPIC07,Person Liability,Expenses Payable,,0,1,0
+EPIC07,Person Liability,Advances,,0,1,0
+EPIC07,Person Liability,Salary,,0,1,0
+EPIC07,Petty Cash Desk,Cash,,0,1,0
+EPIC07,Petty Cash Desk,Cash Transfer,,0,1,0
+EPIC07,Petty Cash Operation Type,Other Account,,0,1,0
+EPIC07,Plant Transfer,In Transit (From Plant),,1,1,0
+EPIC07,Plant Transfer,AR (From Plant),,1,1,0
+EPIC07,Plant Transfer,AP (To Plant),,1,1,0
+EPIC07,Plant Transfer,Transfer Variance (To Plant),,1,1,0
+EPIC07,Plant Transfer,Contra AR,,1,1,0
+EPIC07,Plant Transfer,Contra AP,,1,1,0
+EPIC07,Plant Transfer,Contra COS,,1,1,0
+EPIC07,Plant Transfer,Contra Revenue,,1,1,0
+EPIC07,Plant Transfer,Contra Asset,,1,1,0
+EPIC07,Plant Transfer,Consolidated Division,,0,1,0
+EPIC07,Product Group,Sales,,0,1,0
+EPIC07,Product Group,Sales Discount,,0,1,0
+EPIC07,Product Group,Returns,,0,1,0
+EPIC07,Product Group,Cost of Returns,,0,1,0
+EPIC07,Product Group,Variance,,0,1,0
+EPIC07,Product Group,Rebate,,0,1,0
+EPIC07,Product Group,COS Material,,0,1,0
+EPIC07,Product Group,COS Labor,,0,1,0
+EPIC07,Product Group,COS Burden,,0,1,0
+EPIC07,Product Group,COS Subcontract,,0,1,0
+EPIC07,Product Group,COS Material Burden,,0,1,0
+EPIC07,Product Group,COS Rounding,,0,1,0
+EPIC07,Product Group,WIP Material,,0,1,0
+EPIC07,Product Group,WIP Labor,,0,1,0
+EPIC07,Product Group,WIP Burden,,0,1,0
+EPIC07,Product Group,WIP Subcontract,,0,1,0
+EPIC07,Product Group,WIP Material Burden,,0,1,0
+EPIC07,Product Group,WIP Rounding,,0,1,0
+EPIC07,Product Group,Return Discount,,0,1,0
+EPIC07,Product Group,Deferred Revenue,,0,1,0
+EPIC07,Product Group,Deferred Returns,,0,1,0
+EPIC07,Project Billing,Sales - Measured Work,,1,1,0
+EPIC07,Project Billing,Sales - Role Labor,,1,1,0
+EPIC07,Project Billing,Accrued Labor Charges,,1,1,0
+EPIC07,Project Billing,Sales - Material,,1,1,0
+EPIC07,Project Billing,Sales - Subcontract,,1,1,0
+EPIC07,Project Billing,Sales - Project ODC,,1,1,0
+EPIC07,Project Billing,Sales - Provisional Burden,,1,1,0
+EPIC07,Project Billing,Sales - Actual Burden,,1,1,0
+EPIC07,Project Billing,Sales - Project Fees,,1,1,0
+EPIC07,Project Billing,Ceilings,,1,1,0
+EPIC07,Project Billing,Retained Revenue,,0,1,0
+EPIC07,Project Billing,Sales Recognized,,1,1,0
+EPIC07,Project Billing,Accrued Sales Recognized,,0,1,0
+EPIC07,Project Billing,WIP Material,,1,1,0
+EPIC07,Project Billing,WIP Labor,,1,1,0
+EPIC07,Project Billing,WIP Burden,,1,1,0
+EPIC07,Project Billing,WIP Subcontract,,1,1,0
+EPIC07,Project Billing,WIP Material Burden,,1,1,0
+EPIC07,Project Billing,WIP Other Direct Cost,,1,1,0
+EPIC07,Project Billing,WIP Rounding,,1,1,0
+EPIC07,Project Billing,COS Material,,1,1,0
+EPIC07,Project Billing,COS Labor,,1,1,0
+EPIC07,Project Billing,COS Burden,,1,1,0
+EPIC07,Project Billing,COS Subcontract,,1,1,0
+EPIC07,Project Billing,COS Material Burden,,1,1,0
+EPIC07,Project Billing,COS Other Direct Cost,,1,1,0
+EPIC07,Project Billing,COS Rounding,,1,1,0
+EPIC07,Project Billing,Deferred Revenue,,0,1,0
+EPIC07,Project Control,Sales,,1,1,0
+EPIC07,Project Control,Discounts,,1,1,0
+EPIC07,Project Control,Returns,,1,1,0
+EPIC07,Project Control,Deferred Revenue,,1,1,0
+EPIC07,Project Control,COS Labor,,1,1,0
+EPIC07,Project Control,COS Material,,1,1,0
+EPIC07,Project Control,COS Burden,,1,1,0
+EPIC07,Project Control,COS Subcontract,,0,1,0
+EPIC07,Project Control,COS Material Burden,,1,1,0
+EPIC07,Project Control,COS Rounding,,1,1,0
+EPIC07,Project Control,WIP Labor,,0,1,0
+EPIC07,Project Control,WIP Material,,0,1,0
+EPIC07,Project Control,WIP Burden,,0,1,0
+EPIC07,Project Control,WIP Subcontract,,0,1,0
+EPIC07,Project Control,WIP Material Burden,,0,1,0
+EPIC07,Project Control,WIP Rounding,,0,1,0
+EPIC07,Purchase Type,Credit,,0,1,0
+EPIC07,Purchase Type,Debit,,0,1,0
+EPIC07,Purchase Type,WIP,,0,1,0
+EPIC07,Purchase Type,Finished Goods,,0,1,0
+EPIC07,Purchase Type,Debit (Expense),,0,1,0
+EPIC07,Purchase Type,Credit (Expense),,0,1,0
+EPIC07,Reason Code,Adjustment,,0,1,0
+EPIC07,Supplier,Expense,,0,1,0
+EPIC07,Tax,AR Interim Tax,,1,1,0
+EPIC07,Tax,AP Interim Tax,,1,1,0
+EPIC07,Tax,AR Tax Contra,,1,1,0
+EPIC07,Tax,AP Tax Contra,,1,1,0
+EPIC07,Tax,AR Tax Accrual,,1,1,0
+EPIC07,Tax,AP Tax Accrual,,1,1,0
+EPIC07,Tax,AR Interim Tax Variance,,0,1,0
+EPIC07,Tax,AP Interim Tax Variance,,0,1,0
+EPIC07,Tax,AR Tax Contra Variance,,0,1,0
+EPIC07,Tax,AP Tax Contra Variance,,0,1,0
+EPIC07,Tax,AR Tax Accrual Variance,,0,1,0
+EPIC07,Tax,AP Tax Accrual Variance,,0,1,0
+EPIC07,Tax,Non-Deductible Tax,,0,1,0
+EPIC07,Tax,Deferred Revenue,,1,1,0

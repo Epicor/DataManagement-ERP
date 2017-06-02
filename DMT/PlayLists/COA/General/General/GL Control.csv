@@ -1,0 +1,661 @@
+Company,GLControlType,GLControlCode,Description,GLCntrlAcct#GLAcctContext,GLCntrlAcct#BookID,GLCntrlAcct#COACode,GLCntrlAcct#GLAccount
+EPIC07,Alternative Deduction,INTE,Bank Interest,Default,MAIN,MAIN,93000|00|000
+EPIC07,AP Account,CAP,Company AP Controls,Advance Payment,MAIN,MAIN,51400|00|000
+EPIC07,AP Account,CAP,Company AP Controls,Clearing,MAIN,MAIN,20200
+EPIC07,AP Account,CAP,Company AP Controls,Expense,MAIN,MAIN,51400|00|000
+EPIC07,AP Account,CAP,Company AP Controls,Expense Suspense,MAIN,MAIN,20400
+EPIC07,AP Account,CAP,Company AP Controls,Payables,MAIN,MAIN,20100
+EPIC07,AP Account,CAP,Company AP Controls,Payables Suspense,MAIN,MAIN,20300
+EPIC07,AP Account,CAP,Company AP Controls,Payment Discount,MAIN,MAIN,20100
+EPIC07,AP Account,CAP,Company AP Controls,Prepayment,MAIN,MAIN,13500
+EPIC07,AP Account,CAP,Company AP Controls,Revaluation Accrual,MAIN,MAIN,91100|00|000
+EPIC07,AP Account,CAP,Company AP Controls,Rounding Difference,MAIN,MAIN,91000|00|000
+EPIC07,AP Account,CAP,Company AP Controls,Tax Suspense,MAIN,MAIN,20300
+EPIC07,AP Account,CAP,Company AP Controls,Variance,MAIN,MAIN,51400|00|200
+EPIC07,AR Account,CAR,Company AR Controls,Deferred Revenue,MAIN,MAIN,13100
+EPIC07,AR Account,CAR,Company AR Controls,Payment Discount,MAIN,MAIN,13000
+EPIC07,AR Account,CAR,Company AR Controls,Prepayment,MAIN,MAIN,13500
+EPIC07,AR Account,CAR,Company AR Controls,Receivables,MAIN,MAIN,13000
+EPIC07,AR Account,CAR,Company AR Controls,Return Discount,MAIN,MAIN,41000|00|000
+EPIC07,AR Account,CAR,Company AR Controls,Returns,MAIN,MAIN,41000|00|000
+EPIC07,AR Account,CAR,Company AR Controls,Revaluation Accrual,MAIN,MAIN,13500
+EPIC07,AR Account,CAR,Company AR Controls,Rounding Difference,MAIN,MAIN,41000|00|000
+EPIC07,AR Account,CAR,Company AR Controls,Sales,MAIN,MAIN,41000|00|000
+EPIC07,AR Account,CAR,Company AR Controls,Sales Discount,MAIN,MAIN,41000|00|000
+EPIC07,AR Account,CAR,Company AR Controls,Unapplied Cash,MAIN,MAIN,13200
+EPIC07,Asset,CAS,Company Asset Control,Asset Clearing,MAIN,MAIN,10900
+EPIC07,Asset Group,BUI01,Buildings,Addition Provision,MAIN,MAIN,10110||000
+EPIC07,Asset Group,BUI01,Buildings,Asset Cost,MAIN,MAIN,10100||000
+EPIC07,Asset Group,BUI01,Buildings,Depreciation Charge,MAIN,MAIN,82000|00|000
+EPIC07,Asset Group,BUI01,Buildings,Depreciation Provision,MAIN,MAIN,10110||000
+EPIC07,Asset Group,BUI01,Buildings,Disposal Cost,MAIN,MAIN,10100||000
+EPIC07,Asset Group,BUI01,Buildings,Disposal Gain/Loss,MAIN,MAIN,90100|00|000
+EPIC07,Asset Group,BUI01,Buildings,Disposal Provision,MAIN,MAIN,10110||000
+EPIC07,Asset Group,BUI01,Buildings,Impairment Control,MAIN,MAIN,10900
+EPIC07,Asset Group,BUI01,Buildings,Provision Control,MAIN,MAIN,10900
+EPIC07,Asset Group,COMP,Computer Equipment,Addition Provision,MAIN,MAIN,10610||000
+EPIC07,Asset Group,COMP,Computer Equipment,Asset Cost,MAIN,MAIN,10600||000
+EPIC07,Asset Group,COMP,Computer Equipment,Depreciation Charge,MAIN,MAIN,82000|00|000
+EPIC07,Asset Group,COMP,Computer Equipment,Depreciation Provision,MAIN,MAIN,10610||000
+EPIC07,Asset Group,COMP,Computer Equipment,Disposal Cost,MAIN,MAIN,10600||000
+EPIC07,Asset Group,COMP,Computer Equipment,Disposal Gain/Loss,MAIN,MAIN,90100|00|000
+EPIC07,Asset Group,COMP,Computer Equipment,Disposal Provision,MAIN,MAIN,10610||000
+EPIC07,Asset Group,COMP,Computer Equipment,Impairment Control,MAIN,MAIN,10900
+EPIC07,Asset Group,COMP,Computer Equipment,Provision Control,MAIN,MAIN,10900
+EPIC07,Asset Group,FURN,Furniture and Fittings,Addition Provision,MAIN,MAIN,10510||000
+EPIC07,Asset Group,FURN,Furniture and Fittings,Asset Cost,MAIN,MAIN,10500||000
+EPIC07,Asset Group,FURN,Furniture and Fittings,Depreciation Charge,MAIN,MAIN,82000|00|000
+EPIC07,Asset Group,FURN,Furniture and Fittings,Depreciation Provision,MAIN,MAIN,10510||000
+EPIC07,Asset Group,FURN,Furniture and Fittings,Disposal Cost,MAIN,MAIN,10500||000
+EPIC07,Asset Group,FURN,Furniture and Fittings,Disposal Gain/Loss,MAIN,MAIN,90100|00|000
+EPIC07,Asset Group,FURN,Furniture and Fittings,Disposal Provision,MAIN,MAIN,10510||000
+EPIC07,Asset Group,FURN,Furniture and Fittings,Impairment Control,MAIN,MAIN,10900
+EPIC07,Asset Group,FURN,Furniture and Fittings,Provision Control,MAIN,MAIN,10900
+EPIC07,Asset Group,VEH,Motor vehicles,Addition Provision,MAIN,MAIN,10410||000
+EPIC07,Asset Group,VEH,Motor vehicles,Asset Cost,MAIN,MAIN,10400||000
+EPIC07,Asset Group,VEH,Motor vehicles,Depreciation Charge,MAIN,MAIN,82000|00|000
+EPIC07,Asset Group,VEH,Motor vehicles,Depreciation Provision,MAIN,MAIN,10410||000
+EPIC07,Asset Group,VEH,Motor vehicles,Disposal Cost,MAIN,MAIN,10400||000
+EPIC07,Asset Group,VEH,Motor vehicles,Disposal Gain/Loss,MAIN,MAIN,90100|00|000
+EPIC07,Asset Group,VEH,Motor vehicles,Disposal Provision,MAIN,MAIN,10410||000
+EPIC07,Asset Group,VEH,Motor vehicles,Impairment Control,MAIN,MAIN,10900
+EPIC07,Asset Group,VEH,Motor vehicles,Provision Control,MAIN,MAIN,10900
+EPIC07,Bank Account,BK01,Bank Account-GBP Current,Bank Fee,MAIN,MAIN,87200|00|000
+EPIC07,Bank Account,BK01,Bank Account-GBP Current,Cash,MAIN,MAIN,14000
+EPIC07,Bank Account,BK01,Bank Account-GBP Current,Transfer,MAIN,MAIN,14000
+EPIC07,Bank Account,BK02,Bank Account-GBP Reserve,Bank Fee,MAIN,MAIN,87200|00|000
+EPIC07,Bank Account,BK02,Bank Account-GBP Reserve,Cash,MAIN,MAIN,15000
+EPIC07,Bank Account,BK02,Bank Account-GBP Reserve,Transfer,MAIN,MAIN,15000
+EPIC07,Bank Account,BK04,Bank Account-USD Current,Bank Fee,MAIN,MAIN,87200|00|000
+EPIC07,Bank Account,BK04,Bank Account-USD Current,Cash,MAIN,MAIN,16000
+EPIC07,Bank Account,BK04,Bank Account-USD Current,Transfer,MAIN,MAIN,16000
+EPIC07,Bank Account,BK06,Credit Card-Company Gary,Cash,MAIN,MAIN,17000
+EPIC07,Bank Account,BK06,Credit Card-Company Gary,Transfer,MAIN,MAIN,17000
+EPIC07,Bank Account,BK10,Petty Cash EUR,Variance,MAIN,MAIN,91000|00|000
+EPIC07,Bank Account,BK11,Bank Account-GBP Royalty,Bank Fee,MAIN,MAIN,87200|00|000
+EPIC07,Bank Account,EU01,Bank Account-EUR Current,Bank Fee,MAIN,MAIN,87200|00|000
+EPIC07,Bank Fee,BK Fee,BK Fee,Bank Fee,MAIN,MAIN,87200|00|000
+EPIC07,Bank Fee,INTE,Bank Interest,Bank Fee,MAIN,MAIN,93000|00|000
+EPIC07,Currency,CCU,Company Currency,Realized Gain,MAIN,MAIN,91000|00|000
+EPIC07,Currency,CCU,Company Currency,Realized Loss,MAIN,MAIN,91000|00|000
+EPIC07,Currency,CCU,Company Currency,Unrealized Gain,MAIN,MAIN,91100|00|000
+EPIC07,Currency,CCU,Company Currency,Unrealized Loss,MAIN,MAIN,91100|00|000
+EPIC07,Department,000,Department,Department,MAIN,MAIN,||000
+EPIC07,Department,100,Custom Development,Department,MAIN,MAIN,||100
+EPIC07,Department,110,Solution Development,Department,MAIN,MAIN,||110
+EPIC07,Department,200,Technical Infrastructure & Pro,Department,MAIN,MAIN,||200
+EPIC07,Department,210,Support Desk,Department,MAIN,MAIN,||210
+EPIC07,Department,300,Consultancy,Department,MAIN,MAIN,||300
+EPIC07,Department,400,ERP Sales team,Department,MAIN,MAIN,||400
+EPIC07,Division,00,Division,Division,MAIN,MAIN,|00
+EPIC07,FS Contract,DEVM,Development Maintenance,COS Burden,MAIN,MAIN,50700|00|100
+EPIC07,FS Contract,DEVM,Development Maintenance,COS Labor,MAIN,MAIN,50700|00|100
+EPIC07,FS Contract,DEVM,Development Maintenance,COS Material,MAIN,MAIN,50700|00|100
+EPIC07,FS Contract,DEVM,Development Maintenance,COS Material Burden,MAIN,MAIN,50700|00|100
+EPIC07,FS Contract,DEVM,Development Maintenance,COS Rounding,MAIN,MAIN,50700|00|100
+EPIC07,FS Contract,DEVM,Development Maintenance,COS Subcontract,MAIN,MAIN,50700|00|100
+EPIC07,FS Contract,DEVM,Development Maintenance,Return Discount,MAIN,MAIN,40700|00|100
+EPIC07,FS Contract,DEVM,Development Maintenance,Returns,MAIN,MAIN,40700|00|100
+EPIC07,FS Contract,DEVM,Development Maintenance,Sales,MAIN,MAIN,40700|00|100
+EPIC07,FS Contract,DEVM,Development Maintenance,Sales Discount,MAIN,MAIN,40700|00|100
+EPIC07,FS Contract,SVR,Server Support,COS Burden,MAIN,MAIN,50200|00|210
+EPIC07,FS Contract,SVR,Server Support,COS Labor,MAIN,MAIN,50200|00|210
+EPIC07,FS Contract,SVR,Server Support,COS Material,MAIN,MAIN,50200|00|210
+EPIC07,FS Contract,SVR,Server Support,COS Material Burden,MAIN,MAIN,50200|00|210
+EPIC07,FS Contract,SVR,Server Support,COS Rounding,MAIN,MAIN,50200|00|210
+EPIC07,FS Contract,SVR,Server Support,COS Subcontract,MAIN,MAIN,50200|00|210
+EPIC07,FS Contract,SVR,Server Support,Return Discount,MAIN,MAIN,40200|00|210
+EPIC07,FS Contract,SVR,Server Support,Returns,MAIN,MAIN,40200|00|210
+EPIC07,FS Contract,SVR,Server Support,Sales,MAIN,MAIN,40200|00|210
+EPIC07,FS Contract,SVR,Server Support,Sales Discount,MAIN,MAIN,40200|00|210
+EPIC07,Indirect Labor,IND,Admin Meeting & Appoin,COS Burden,MAIN,MAIN,52600|00|000
+EPIC07,Indirect Labor,IND,Admin Meeting & Appoin,COS Labor,MAIN,MAIN,52600|00|000
+EPIC07,Indirect Labor,IND,Admin Meeting & Appoin,COS Material,MAIN,MAIN,52600|00|000
+EPIC07,Indirect Labor,IND,Admin Meeting & Appoin,COS Material Burden,MAIN,MAIN,52600|00|000
+EPIC07,Indirect Labor,IND,Admin Meeting & Appoin,COS Rounding,MAIN,MAIN,52600|00|000
+EPIC07,Indirect Labor,IND02,Customer Engagements,COS Burden,MAIN,MAIN,52700|00|000
+EPIC07,Indirect Labor,IND02,Customer Engagements,COS Labor,MAIN,MAIN,52700|00|000
+EPIC07,Indirect Labor,IND02,Customer Engagements,COS Material,MAIN,MAIN,52700|00|000
+EPIC07,Indirect Labor,IND02,Customer Engagements,COS Material Burden,MAIN,MAIN,52700|00|000
+EPIC07,Indirect Labor,IND02,Customer Engagements,COS Rounding,MAIN,MAIN,52700|00|000
+EPIC07,Indirect Labor,IND02,Customer Engagements,COS Subcontract,MAIN,MAIN,52700|00|000
+EPIC07,Indirect Labor,IND03,Sickness and Holiday,COS Burden,MAIN,MAIN,52500|00|000
+EPIC07,Indirect Labor,IND03,Sickness and Holiday,COS Labor,MAIN,MAIN,52500|00|000
+EPIC07,Indirect Labor,IND03,Sickness and Holiday,COS Material,MAIN,MAIN,52500|00|000
+EPIC07,Indirect Labor,IND03,Sickness and Holiday,COS Material Burden,MAIN,MAIN,52500|00|000
+EPIC07,Indirect Labor,IND03,Sickness and Holiday,COS Rounding,MAIN,MAIN,52500|00|000
+EPIC07,Indirect Labor,IND03,Sickness and Holiday,COS Subcontract,MAIN,MAIN,52500|00|000
+EPIC07,Indirect Labor,IND04,Training and Certification,COS Burden,MAIN,MAIN,52100|00|000
+EPIC07,Indirect Labor,IND04,Training and Certification,COS Labor,MAIN,MAIN,52100|00|000
+EPIC07,Indirect Labor,IND04,Training and Certification,COS Material,MAIN,MAIN,52100|00|000
+EPIC07,Indirect Labor,IND04,Training and Certification,COS Material Burden,MAIN,MAIN,52100|00|000
+EPIC07,Indirect Labor,IND04,Training and Certification,COS Rounding,MAIN,MAIN,52100|00|000
+EPIC07,Indirect Labor,IND04,Training and Certification,COS Subcontract,MAIN,MAIN,52100|00|000
+EPIC07,Indirect Labor,IND05,Solution Projects,COS Burden,MAIN,MAIN,52000|00|110
+EPIC07,Indirect Labor,IND05,Solution Projects,COS Labor,MAIN,MAIN,52000|00|110
+EPIC07,Indirect Labor,IND05,Solution Projects,COS Material,MAIN,MAIN,52000|00|110
+EPIC07,Indirect Labor,IND05,Solution Projects,COS Material Burden,MAIN,MAIN,52000|00|110
+EPIC07,Indirect Labor,IND05,Solution Projects,COS Rounding,MAIN,MAIN,52000|00|110
+EPIC07,Indirect Labor,IND05,Solution Projects,COS Subcontract,MAIN,MAIN,52000|00|110
+EPIC07,Indirect Labor,IND06,Travel,COS Burden,MAIN,MAIN,52800|00|000
+EPIC07,Indirect Labor,IND06,Travel,COS Labor,MAIN,MAIN,52800|00|000
+EPIC07,Indirect Labor,IND06,Travel,COS Material,MAIN,MAIN,52800|00|000
+EPIC07,Indirect Labor,IND06,Travel,COS Material Burden,MAIN,MAIN,52800|00|000
+EPIC07,Indirect Labor,IND06,Travel,COS Rounding,MAIN,MAIN,52800|00|000
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,AP Clearing,MAIN,MAIN,20200
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,Applied Labor,MAIN,MAIN,60000|00
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,Applied Material Burden,MAIN,MAIN,50900|00
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,Applied Overhead,MAIN,MAIN,70100|00
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,AR Clearing,MAIN,MAIN,12800
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,COS Burden,MAIN,MAIN,51000|00
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,COS Labor,MAIN,MAIN,51000|00
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,COS Material,MAIN,MAIN,51000|00
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,COS Material Burden,MAIN,MAIN,51000|00
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,COS Rounding,MAIN,MAIN,51000|00
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,COS Subcontract,MAIN,MAIN,51000|00
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,Cost of Returns,MAIN,MAIN,51000|00
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,DMR,MAIN,MAIN,12500
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,DMR Write Off,MAIN,MAIN,51300|00|200
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,Drop Shipment,MAIN,MAIN,21000
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,Inspection,MAIN,MAIN,12400
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,Inventory,MAIN,MAIN,12000
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,Inventory Adjustment,MAIN,MAIN,51200|00|200
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,Variance,MAIN,MAIN,51500|00
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,WIP Burden,MAIN,MAIN,12100
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,WIP Labor,MAIN,MAIN,12100
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,WIP Material,MAIN,MAIN,12100
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,WIP Material Burden,MAIN,MAIN,12100
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,WIP Rounding,MAIN,MAIN,12100
+EPIC07,Inventory COS and WIP,CIN,Company Inventory,WIP Subcontract,MAIN,MAIN,12100
+EPIC07,Misc Charge(Purchase),PURCH,Purchase Carriage,Expense,MAIN,MAIN,72100|00|200
+EPIC07,Misc Charge(Sales),CAR,Carriage,Income,MAIN,MAIN,40300|00|200
+EPIC07,Misc Charge(Sales),MIL,MIleage,Income,MAIN,MAIN,41100|00|000
+EPIC07,Part Class,ASS,Assets,DMR,MAIN,MAIN,10900
+EPIC07,Part Class,ASS,Assets,DMR Write Off,MAIN,MAIN,10900
+EPIC07,Part Class,ASS,Assets,Drop Shipment,MAIN,MAIN,10900
+EPIC07,Part Class,ASS,Assets,Inspection,MAIN,MAIN,10900
+EPIC07,Part Class,ASS,Assets,Inventory/Expense,MAIN,MAIN,10900
+EPIC07,Part Class,ASS,Assets,Purchase Price Variance,MAIN,MAIN,10900
+EPIC07,Part Class,ASS,Assets,Transfer Cost Variance,MAIN,MAIN,10900
+EPIC07,Part Class,CON,Consultancy,DMR,MAIN,MAIN,60700|00|300
+EPIC07,Part Class,CON,Consultancy,DMR Write Off,MAIN,MAIN,60700|00|300
+EPIC07,Part Class,CON,Consultancy,Drop Shipment,MAIN,MAIN,60700|00|300
+EPIC07,Part Class,CON,Consultancy,Inspection,MAIN,MAIN,60700|00|300
+EPIC07,Part Class,CON,Consultancy,Inventory/Expense,MAIN,MAIN,60700|00|300
+EPIC07,Part Class,CON,Consultancy,Purchase Price Variance,MAIN,MAIN,60700|00|300
+EPIC07,Part Class,CON,Consultancy,Transfer Cost Variance,MAIN,MAIN,60700|00|300
+EPIC07,Part Class,DEV,Development,DMR,MAIN,MAIN,60700|00|100
+EPIC07,Part Class,DEV,Development,DMR Write Off,MAIN,MAIN,60700|00|100
+EPIC07,Part Class,DEV,Development,Drop Shipment,MAIN,MAIN,60700|00|100
+EPIC07,Part Class,DEV,Development,Inspection,MAIN,MAIN,60700|00|100
+EPIC07,Part Class,DEV,Development,Inventory/Expense,MAIN,MAIN,60700|00|100
+EPIC07,Part Class,DEV,Development,Purchase Price Variance,MAIN,MAIN,60700|00|100
+EPIC07,Part Class,DEV,Development,Transfer Cost Variance,MAIN,MAIN,60700|00|100
+EPIC07,Part Class,EXB,Exhibitions,DMR,MAIN,MAIN,87020|00|110
+EPIC07,Part Class,EXB,Exhibitions,DMR Write Off,MAIN,MAIN,87020|00|400
+EPIC07,Part Class,EXB,Exhibitions,Drop Shipment,MAIN,MAIN,87020|00|400
+EPIC07,Part Class,EXB,Exhibitions,Inspection,MAIN,MAIN,87020|00|400
+EPIC07,Part Class,EXB,Exhibitions,Inventory/Expense,MAIN,MAIN,87020|00|400
+EPIC07,Part Class,EXB,Exhibitions,Purchase Price Variance,MAIN,MAIN,87020|00|400
+EPIC07,Part Class,EXB,Exhibitions,Transfer Cost Variance,MAIN,MAIN,87020|00|400
+EPIC07,Part Class,MAR,Marketing Advertising,DMR,MAIN,MAIN,87000|00|400
+EPIC07,Part Class,MAR,Marketing Advertising,DMR Write Off,MAIN,MAIN,87000|00|400
+EPIC07,Part Class,MAR,Marketing Advertising,Drop Shipment,MAIN,MAIN,87000|00|400
+EPIC07,Part Class,MAR,Marketing Advertising,Inspection,MAIN,MAIN,87000|00|400
+EPIC07,Part Class,MAR,Marketing Advertising,Inventory/Expense,MAIN,MAIN,87000|00|400
+EPIC07,Part Class,MAR,Marketing Advertising,Purchase Price Variance,MAIN,MAIN,87000|00|400
+EPIC07,Part Class,MAR,Marketing Advertising,Transfer Cost Variance,MAIN,MAIN,87000|00|400
+EPIC07,Part Class,SERV,Expense-Support Service Costs,Inventory/Expense,MAIN,MAIN,50200|00|210
+EPIC07,Part Class,SERV,Expense-Support Service Costs,Purchase Price Variance,MAIN,MAIN,50200|00|210
+EPIC07,Part Class,STA,Stationary,DMR,MAIN,MAIN,84000|00|000
+EPIC07,Part Class,STA,Stationary,DMR Write Off,MAIN,MAIN,84000|00|000
+EPIC07,Part Class,STA,Stationary,Drop Shipment,MAIN,MAIN,84000|00|000
+EPIC07,Part Class,STA,Stationary,Inspection,MAIN,MAIN,84000|00|000
+EPIC07,Part Class,STA,Stationary,Inventory/Expense,MAIN,MAIN,84000|00|000
+EPIC07,Part Class,STA,Stationary,Purchase Price Variance,MAIN,MAIN,84000|00|000
+EPIC07,Part Class,STA,Stationary,Transfer Cost Variance,MAIN,MAIN,84000|00|000
+EPIC07,Part Class,TEL,Telemarketing,DMR,MAIN,MAIN,87010|00|400
+EPIC07,Part Class,TEL,Telemarketing,DMR Write Off,MAIN,MAIN,87010|00|400
+EPIC07,Part Class,TEL,Telemarketing,Drop Shipment,MAIN,MAIN,87010|00|400
+EPIC07,Part Class,TEL,Telemarketing,Inspection,MAIN,MAIN,87010|00|400
+EPIC07,Part Class,TEL,Telemarketing,Inventory/Expense,MAIN,MAIN,87010|00|400
+EPIC07,Part Class,TEL,Telemarketing,Purchase Price Variance,MAIN,MAIN,87010|00|400
+EPIC07,Part Class,TEL,Telemarketing,Transfer Cost Variance,MAIN,MAIN,87010|00|400
+EPIC07,Part Class,VEH,Vehicvle repairs,DMR,MAIN,MAIN,86500|00|300
+EPIC07,Part Class,WEB,Marketing Website,DMR,MAIN,MAIN,87050|00|400
+EPIC07,Part Class,WEB,Marketing Website,DMR Write Off,MAIN,MAIN,87050|00|400
+EPIC07,Part Class,WEB,Marketing Website,Drop Shipment,MAIN,MAIN,87050|00|400
+EPIC07,Part Class,WEB,Marketing Website,Inspection,MAIN,MAIN,87050|00|400
+EPIC07,Part Class,WEB,Marketing Website,Inventory/Expense,MAIN,MAIN,87050|00|400
+EPIC07,Part Class,WEB,Marketing Website,Purchase Price Variance,MAIN,MAIN,87050|00|400
+EPIC07,Part Class,WEB,Marketing Website,Transfer Cost Variance,MAIN,MAIN,87050|00|400
+EPIC07,Product Group,40000,Administration.,COS Burden,MAIN,MAIN,51200|00|000
+EPIC07,Product Group,40000,Administration.,COS Labor,MAIN,MAIN,51200|00|000
+EPIC07,Product Group,40000,Administration.,COS Material,MAIN,MAIN,51200|00|000
+EPIC07,Product Group,40000,Administration.,COS Material Burden,MAIN,MAIN,51200|00|000
+EPIC07,Product Group,40000,Administration.,COS Rounding,MAIN,MAIN,51200|00|000
+EPIC07,Product Group,40000,Administration.,COS Subcontract,MAIN,MAIN,51200|00|000
+EPIC07,Product Group,40000,Administration.,Cost of Returns,MAIN,MAIN,51200|00|000
+EPIC07,Product Group,40000,Administration.,Return Discount,MAIN,MAIN,41200|00|000
+EPIC07,Product Group,40000,Administration.,Returns,MAIN,MAIN,41200|00|000
+EPIC07,Product Group,40000,Administration.,Sales,MAIN,MAIN,10900
+EPIC07,Product Group,40000,Administration.,Sales Discount,MAIN,MAIN,41200|00|000
+EPIC07,Product Group,40100,Consultancy & Education,COS Burden,MAIN,MAIN,50100|00|300
+EPIC07,Product Group,40100,Consultancy & Education,COS Labor,MAIN,MAIN,50100|00|300
+EPIC07,Product Group,40100,Consultancy & Education,COS Material,MAIN,MAIN,50100|00|300
+EPIC07,Product Group,40100,Consultancy & Education,COS Material Burden,MAIN,MAIN,50100|00|300
+EPIC07,Product Group,40100,Consultancy & Education,COS Rounding,MAIN,MAIN,50100|00|300
+EPIC07,Product Group,40100,Consultancy & Education,COS Subcontract,MAIN,MAIN,50100|00|300
+EPIC07,Product Group,40100,Consultancy & Education,Cost of Returns,MAIN,MAIN,50100|00|300
+EPIC07,Product Group,40100,Consultancy & Education,Return Discount,MAIN,MAIN,40100|00|300
+EPIC07,Product Group,40100,Consultancy & Education,Returns,MAIN,MAIN,40100|00|300
+EPIC07,Product Group,40100,Consultancy & Education,Sales,MAIN,MAIN,40100|00|300
+EPIC07,Product Group,40100,Consultancy & Education,Sales Discount,MAIN,MAIN,40100|00|300
+EPIC07,Product Group,40100,Consultancy & Education,Variance,MAIN,MAIN,51500|00|300
+EPIC07,Product Group,40100,Consultancy & Education,WIP Burden,MAIN,MAIN,12100||300
+EPIC07,Product Group,40100,Consultancy & Education,WIP Labor,MAIN,MAIN,12100||300
+EPIC07,Product Group,40100,Consultancy & Education,WIP Material,MAIN,MAIN,12100||300
+EPIC07,Product Group,40100,Consultancy & Education,WIP Material Burden,MAIN,MAIN,12100||300
+EPIC07,Product Group,40100,Consultancy & Education,WIP Rounding,MAIN,MAIN,12100||300
+EPIC07,Product Group,40100,Consultancy & Education,WIP Subcontract,MAIN,MAIN,12100||300
+EPIC07,Product Group,40200,Support Desk and Maintenance,COS Burden,MAIN,MAIN,50200|00|210
+EPIC07,Product Group,40200,Support Desk and Maintenance,COS Labor,MAIN,MAIN,50200|00|210
+EPIC07,Product Group,40200,Support Desk and Maintenance,COS Material,MAIN,MAIN,50200|00|210
+EPIC07,Product Group,40200,Support Desk and Maintenance,COS Material Burden,MAIN,MAIN,50200|00|210
+EPIC07,Product Group,40200,Support Desk and Maintenance,COS Rounding,MAIN,MAIN,50200|00|210
+EPIC07,Product Group,40200,Support Desk and Maintenance,COS Subcontract,MAIN,MAIN,50200|00|210
+EPIC07,Product Group,40200,Support Desk and Maintenance,Cost of Returns,MAIN,MAIN,50200|00|210
+EPIC07,Product Group,40200,Support Desk and Maintenance,Return Discount,MAIN,MAIN,40200|00|210
+EPIC07,Product Group,40200,Support Desk and Maintenance,Returns,MAIN,MAIN,40200|00|210
+EPIC07,Product Group,40200,Support Desk and Maintenance,Sales,MAIN,MAIN,40200|00|210
+EPIC07,Product Group,40200,Support Desk and Maintenance,Sales Discount,MAIN,MAIN,40200|00|210
+EPIC07,Product Group,40200,Support Desk and Maintenance,Variance,MAIN,MAIN,51500|00|210
+EPIC07,Product Group,40200,Support Desk and Maintenance,WIP Burden,MAIN,MAIN,12100||210
+EPIC07,Product Group,40200,Support Desk and Maintenance,WIP Labor,MAIN,MAIN,12100||210
+EPIC07,Product Group,40200,Support Desk and Maintenance,WIP Material,MAIN,MAIN,12100||210
+EPIC07,Product Group,40200,Support Desk and Maintenance,WIP Material Burden,MAIN,MAIN,12100||210
+EPIC07,Product Group,40200,Support Desk and Maintenance,WIP Rounding,MAIN,MAIN,12100||210
+EPIC07,Product Group,40200,Support Desk and Maintenance,WIP Subcontract,MAIN,MAIN,12100||210
+EPIC07,Product Group,40300,Technical Product Sales,COS Burden,MAIN,MAIN,50300|00|200
+EPIC07,Product Group,40300,Technical Product Sales,COS Labor,MAIN,MAIN,50300|00|200
+EPIC07,Product Group,40300,Technical Product Sales,COS Material,MAIN,MAIN,50300|00|200
+EPIC07,Product Group,40300,Technical Product Sales,COS Material Burden,MAIN,MAIN,50300|00|200
+EPIC07,Product Group,40300,Technical Product Sales,COS Rounding,MAIN,MAIN,50300|00|200
+EPIC07,Product Group,40300,Technical Product Sales,COS Subcontract,MAIN,MAIN,50300|00|200
+EPIC07,Product Group,40300,Technical Product Sales,Cost of Returns,MAIN,MAIN,50300|00|200
+EPIC07,Product Group,40300,Technical Product Sales,Return Discount,MAIN,MAIN,40300|00|200
+EPIC07,Product Group,40300,Technical Product Sales,Returns,MAIN,MAIN,40300|00|200
+EPIC07,Product Group,40300,Technical Product Sales,Sales,MAIN,MAIN,40300|00|200
+EPIC07,Product Group,40300,Technical Product Sales,Sales Discount,MAIN,MAIN,40300|00|200
+EPIC07,Product Group,40300,Technical Product Sales,Variance,MAIN,MAIN,51500|00|200
+EPIC07,Product Group,40300,Technical Product Sales,WIP Burden,MAIN,MAIN,12100||200
+EPIC07,Product Group,40300,Technical Product Sales,WIP Labor,MAIN,MAIN,12100||200
+EPIC07,Product Group,40300,Technical Product Sales,WIP Material,MAIN,MAIN,12100||200
+EPIC07,Product Group,40300,Technical Product Sales,WIP Material Burden,MAIN,MAIN,12100||200
+EPIC07,Product Group,40300,Technical Product Sales,WIP Rounding,MAIN,MAIN,12100||200
+EPIC07,Product Group,40300,Technical Product Sales,WIP Subcontract,MAIN,MAIN,12100||200
+EPIC07,Product Group,40400,Infrastructure Projects,COS Burden,MAIN,MAIN,50400|00|200
+EPIC07,Product Group,40400,Infrastructure Projects,COS Labor,MAIN,MAIN,50400|00|200
+EPIC07,Product Group,40400,Infrastructure Projects,COS Material,MAIN,MAIN,50400|00|200
+EPIC07,Product Group,40400,Infrastructure Projects,COS Material Burden,MAIN,MAIN,50400|00|200
+EPIC07,Product Group,40400,Infrastructure Projects,COS Rounding,MAIN,MAIN,50400|00|200
+EPIC07,Product Group,40400,Infrastructure Projects,COS Subcontract,MAIN,MAIN,50400|00|200
+EPIC07,Product Group,40400,Infrastructure Projects,Cost of Returns,MAIN,MAIN,50400|00|200
+EPIC07,Product Group,40400,Infrastructure Projects,Return Discount,MAIN,MAIN,40400|00|200
+EPIC07,Product Group,40400,Infrastructure Projects,Returns,MAIN,MAIN,40400|00|200
+EPIC07,Product Group,40400,Infrastructure Projects,Sales,MAIN,MAIN,40400|00|200
+EPIC07,Product Group,40400,Infrastructure Projects,Sales Discount,MAIN,MAIN,40400|00|200
+EPIC07,Product Group,40400,Infrastructure Projects,Variance,MAIN,MAIN,51500|00|200
+EPIC07,Product Group,40400,Infrastructure Projects,WIP Burden,MAIN,MAIN,12100||200
+EPIC07,Product Group,40400,Infrastructure Projects,WIP Labor,MAIN,MAIN,12100||200
+EPIC07,Product Group,40400,Infrastructure Projects,WIP Material,MAIN,MAIN,12100||200
+EPIC07,Product Group,40400,Infrastructure Projects,WIP Material Burden,MAIN,MAIN,12100||200
+EPIC07,Product Group,40400,Infrastructure Projects,WIP Rounding,MAIN,MAIN,12100||200
+EPIC07,Product Group,40400,Infrastructure Projects,WIP Subcontract,MAIN,MAIN,12100||200
+EPIC07,Product Group,40500,Development,COS Burden,MAIN,MAIN,50500|00|100
+EPIC07,Product Group,40500,Development,COS Labor,MAIN,MAIN,50500|00|100
+EPIC07,Product Group,40500,Development,COS Material,MAIN,MAIN,50500|00|100
+EPIC07,Product Group,40500,Development,COS Material Burden,MAIN,MAIN,50500|00|100
+EPIC07,Product Group,40500,Development,COS Rounding,MAIN,MAIN,50500|00|100
+EPIC07,Product Group,40500,Development,COS Subcontract,MAIN,MAIN,50500|00|100
+EPIC07,Product Group,40500,Development,Cost of Returns,MAIN,MAIN,50500|00|100
+EPIC07,Product Group,40500,Development,Return Discount,MAIN,MAIN,40500|00|100
+EPIC07,Product Group,40500,Development,Returns,MAIN,MAIN,40500|00|100
+EPIC07,Product Group,40500,Development,Sales,MAIN,MAIN,40500|00|100
+EPIC07,Product Group,40500,Development,Sales Discount,MAIN,MAIN,40500|00|100
+EPIC07,Product Group,40500,Development,Variance,MAIN,MAIN,51500|00|100
+EPIC07,Product Group,40500,Development,WIP Burden,MAIN,MAIN,12100||100
+EPIC07,Product Group,40500,Development,WIP Labor,MAIN,MAIN,12100||100
+EPIC07,Product Group,40500,Development,WIP Material,MAIN,MAIN,12100||100
+EPIC07,Product Group,40500,Development,WIP Material Burden,MAIN,MAIN,12100||100
+EPIC07,Product Group,40500,Development,WIP Rounding,MAIN,MAIN,12100||100
+EPIC07,Product Group,40500,Development,WIP Subcontract,MAIN,MAIN,12100||100
+EPIC07,Product Group,40600,Software Solutions,COS Burden,MAIN,MAIN,50600|00|110
+EPIC07,Product Group,40600,Software Solutions,COS Labor,MAIN,MAIN,50600|00|110
+EPIC07,Product Group,40600,Software Solutions,COS Material,MAIN,MAIN,50600|00|110
+EPIC07,Product Group,40600,Software Solutions,COS Material Burden,MAIN,MAIN,50600|00|110
+EPIC07,Product Group,40600,Software Solutions,COS Rounding,MAIN,MAIN,50600|00|110
+EPIC07,Product Group,40600,Software Solutions,COS Subcontract,MAIN,MAIN,50600|00|110
+EPIC07,Product Group,40600,Software Solutions,Cost of Returns,MAIN,MAIN,50600|00|110
+EPIC07,Product Group,40600,Software Solutions,Return Discount,MAIN,MAIN,40600|00|110
+EPIC07,Product Group,40600,Software Solutions,Returns,MAIN,MAIN,40600|00|110
+EPIC07,Product Group,40600,Software Solutions,Sales,MAIN,MAIN,40600|00|110
+EPIC07,Product Group,40600,Software Solutions,Sales Discount,MAIN,MAIN,40600|00|110
+EPIC07,Product Group,40600,Software Solutions,Variance,MAIN,MAIN,51500|00|110
+EPIC07,Product Group,40600,Software Solutions,WIP Burden,MAIN,MAIN,12100||110
+EPIC07,Product Group,40600,Software Solutions,WIP Labor,MAIN,MAIN,12100||110
+EPIC07,Product Group,40600,Software Solutions,WIP Material,MAIN,MAIN,12100||110
+EPIC07,Product Group,40600,Software Solutions,WIP Material Burden,MAIN,MAIN,12100||110
+EPIC07,Product Group,40600,Software Solutions,WIP Rounding,MAIN,MAIN,12100||110
+EPIC07,Product Group,40600,Software Solutions,WIP Subcontract,MAIN,MAIN,12100||110
+EPIC07,Product Group,40700,Solution PD Maintenance,COS Burden,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40700,Solution PD Maintenance,COS Labor,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40700,Solution PD Maintenance,COS Material,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40700,Solution PD Maintenance,COS Material Burden,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40700,Solution PD Maintenance,COS Rounding,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40700,Solution PD Maintenance,COS Subcontract,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40700,Solution PD Maintenance,Cost of Returns,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40700,Solution PD Maintenance,Return Discount,MAIN,MAIN,23600
+EPIC07,Product Group,40700,Solution PD Maintenance,Returns,MAIN,MAIN,23600
+EPIC07,Product Group,40700,Solution PD Maintenance,Sales,MAIN,MAIN,23600
+EPIC07,Product Group,40700,Solution PD Maintenance,Sales Discount,MAIN,MAIN,23600
+EPIC07,Product Group,40700,Solution PD Maintenance,Variance,MAIN,MAIN,23600
+EPIC07,Product Group,40700,Solution PD Maintenance,WIP Burden,MAIN,MAIN,12100||110
+EPIC07,Product Group,40700,Solution PD Maintenance,WIP Labor,MAIN,MAIN,12100||110
+EPIC07,Product Group,40700,Solution PD Maintenance,WIP Material,MAIN,MAIN,12100||110
+EPIC07,Product Group,40700,Solution PD Maintenance,WIP Material Burden,MAIN,MAIN,12100||110
+EPIC07,Product Group,40700,Solution PD Maintenance,WIP Rounding,MAIN,MAIN,12100||110
+EPIC07,Product Group,40700,Solution PD Maintenance,WIP Subcontract,MAIN,MAIN,12100||110
+EPIC07,Product Group,40800,Epicor DMT Maintenance,COS Burden,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40800,Epicor DMT Maintenance,COS Labor,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40800,Epicor DMT Maintenance,COS Material,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40800,Epicor DMT Maintenance,COS Material Burden,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40800,Epicor DMT Maintenance,COS Rounding,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40800,Epicor DMT Maintenance,COS Subcontract,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40800,Epicor DMT Maintenance,Cost of Returns,MAIN,MAIN,50800|00|110
+EPIC07,Product Group,40800,Epicor DMT Maintenance,Return Discount,MAIN,MAIN,23200
+EPIC07,Product Group,40800,Epicor DMT Maintenance,Returns,MAIN,MAIN,23200
+EPIC07,Product Group,40800,Epicor DMT Maintenance,Sales,MAIN,MAIN,23200
+EPIC07,Product Group,40800,Epicor DMT Maintenance,Sales Discount,MAIN,MAIN,23200
+EPIC07,Product Group,40800,Epicor DMT Maintenance,Variance,MAIN,MAIN,23200
+EPIC07,Product Group,40800,Epicor DMT Maintenance,WIP Burden,MAIN,MAIN,12100||110
+EPIC07,Product Group,40800,Epicor DMT Maintenance,WIP Labor,MAIN,MAIN,12100||110
+EPIC07,Product Group,40800,Epicor DMT Maintenance,WIP Material,MAIN,MAIN,12100||110
+EPIC07,Product Group,40800,Epicor DMT Maintenance,WIP Material Burden,MAIN,MAIN,12100||110
+EPIC07,Product Group,40800,Epicor DMT Maintenance,WIP Rounding,MAIN,MAIN,12100||110
+EPIC07,Product Group,40800,Epicor DMT Maintenance,WIP Subcontract,MAIN,MAIN,12100||110
+EPIC07,Product Group,41000,ERP Software Sales,COS Burden,MAIN,MAIN,51000|00|400
+EPIC07,Product Group,41000,ERP Software Sales,COS Labor,MAIN,MAIN,51000|00|400
+EPIC07,Product Group,41000,ERP Software Sales,COS Material,MAIN,MAIN,51000|00|400
+EPIC07,Product Group,41000,ERP Software Sales,COS Material Burden,MAIN,MAIN,51000|00|400
+EPIC07,Product Group,41000,ERP Software Sales,COS Rounding,MAIN,MAIN,51000|00|400
+EPIC07,Product Group,41000,ERP Software Sales,COS Subcontract,MAIN,MAIN,51000|00|400
+EPIC07,Product Group,41000,ERP Software Sales,Cost of Returns,MAIN,MAIN,51000|00|400
+EPIC07,Product Group,41000,ERP Software Sales,Return Discount,MAIN,MAIN,41000|00|400
+EPIC07,Product Group,41000,ERP Software Sales,Returns,MAIN,MAIN,41000|00|400
+EPIC07,Product Group,41000,ERP Software Sales,Sales,MAIN,MAIN,41000|00|400
+EPIC07,Product Group,41000,ERP Software Sales,Sales Discount,MAIN,MAIN,41000|00|400
+EPIC07,Product Group,41000,ERP Software Sales,Variance,MAIN,MAIN,51500|00|400
+EPIC07,Product Group,41000,ERP Software Sales,WIP Burden,MAIN,MAIN,12100||400
+EPIC07,Product Group,41000,ERP Software Sales,WIP Labor,MAIN,MAIN,12100||400
+EPIC07,Product Group,41000,ERP Software Sales,WIP Material,MAIN,MAIN,12100||400
+EPIC07,Product Group,41000,ERP Software Sales,WIP Material Burden,MAIN,MAIN,12100||400
+EPIC07,Product Group,41000,ERP Software Sales,WIP Rounding,MAIN,MAIN,12100||400
+EPIC07,Product Group,41000,ERP Software Sales,WIP Subcontract,MAIN,MAIN,12100||400
+EPIC07,Product Group,41100,ERP Software Maintenance,COS Burden,MAIN,MAIN,51100|00|210
+EPIC07,Product Group,41100,ERP Software Maintenance,COS Labor,MAIN,MAIN,51100|00|210
+EPIC07,Product Group,41100,ERP Software Maintenance,COS Material,MAIN,MAIN,51100|00|210
+EPIC07,Product Group,41100,ERP Software Maintenance,COS Material Burden,MAIN,MAIN,51100|00|210
+EPIC07,Product Group,41100,ERP Software Maintenance,COS Rounding,MAIN,MAIN,51100|00|210
+EPIC07,Product Group,41100,ERP Software Maintenance,COS Subcontract,MAIN,MAIN,51100|00|210
+EPIC07,Product Group,41100,ERP Software Maintenance,Cost of Returns,MAIN,MAIN,51100|00|210
+EPIC07,Product Group,41100,ERP Software Maintenance,Return Discount,MAIN,MAIN,23400
+EPIC07,Product Group,41100,ERP Software Maintenance,Returns,MAIN,MAIN,23400
+EPIC07,Product Group,41100,ERP Software Maintenance,Sales,MAIN,MAIN,23400
+EPIC07,Product Group,41100,ERP Software Maintenance,Sales Discount,MAIN,MAIN,23400
+EPIC07,Product Group,41100,ERP Software Maintenance,Variance,MAIN,MAIN,23400
+EPIC07,Product Group,41100,ERP Software Maintenance,WIP Burden,MAIN,MAIN,12100||210
+EPIC07,Product Group,41100,ERP Software Maintenance,WIP Labor,MAIN,MAIN,12100||210
+EPIC07,Product Group,41100,ERP Software Maintenance,WIP Material,MAIN,MAIN,12100||210
+EPIC07,Product Group,41100,ERP Software Maintenance,WIP Material Burden,MAIN,MAIN,12100||210
+EPIC07,Product Group,41100,ERP Software Maintenance,WIP Rounding,MAIN,MAIN,12100||210
+EPIC07,Product Group,41100,ERP Software Maintenance,WIP Subcontract,MAIN,MAIN,12100||210
+EPIC07,Product Group,41200,Development Maintenance.,COS Burden,MAIN,MAIN,50700|00|100
+EPIC07,Product Group,41200,Development Maintenance.,COS Labor,MAIN,MAIN,50700|00|100
+EPIC07,Product Group,41200,Development Maintenance.,COS Material,MAIN,MAIN,50700|00|100
+EPIC07,Product Group,41200,Development Maintenance.,COS Material Burden,MAIN,MAIN,50700|00|100
+EPIC07,Product Group,41200,Development Maintenance.,COS Rounding,MAIN,MAIN,50700|00|100
+EPIC07,Product Group,41200,Development Maintenance.,COS Subcontract,MAIN,MAIN,50700|00|100
+EPIC07,Product Group,41200,Development Maintenance.,Cost of Returns,MAIN,MAIN,50700|00|100
+EPIC07,Product Group,41200,Development Maintenance.,Return Discount,MAIN,MAIN,23300
+EPIC07,Product Group,41200,Development Maintenance.,Returns,MAIN,MAIN,23300
+EPIC07,Product Group,41200,Development Maintenance.,Sales,MAIN,MAIN,23300
+EPIC07,Product Group,41200,Development Maintenance.,Sales Discount,MAIN,MAIN,23300
+EPIC07,Product Group,41200,Development Maintenance.,Variance,MAIN,MAIN,23300
+EPIC07,Product Group,41200,Development Maintenance.,WIP Burden,MAIN,MAIN,12100||100
+EPIC07,Product Group,41200,Development Maintenance.,WIP Labor,MAIN,MAIN,12100||100
+EPIC07,Product Group,41200,Development Maintenance.,WIP Material,MAIN,MAIN,12100||100
+EPIC07,Product Group,41200,Development Maintenance.,WIP Material Burden,MAIN,MAIN,12100||100
+EPIC07,Product Group,41200,Development Maintenance.,WIP Rounding,MAIN,MAIN,12100||100
+EPIC07,Product Group,41200,Development Maintenance.,WIP Subcontract,MAIN,MAIN,12100||100
+EPIC07,Project Billing,CPB,Company Project Controls,Accrued Labor Charges,MAIN,MAIN,21100
+EPIC07,Project Billing,CPB,Company Project Controls,Accrued Sales Recognized,MAIN,MAIN,12600
+EPIC07,Project Billing,CPB,Company Project Controls,Ceilings,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,COS Burden,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,COS Labor,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,COS Material,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,COS Material Burden,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,COS Other Direct Cost,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,COS Rounding,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,COS Subcontract,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,Deferred Revenue,MAIN,MAIN,13100||300
+EPIC07,Project Billing,CPB,Company Project Controls,Retained Revenue,MAIN,MAIN,13600
+EPIC07,Project Billing,CPB,Company Project Controls,Sales - Actual Burden,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,Sales - Material,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,Sales - Measured Work,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,Sales - Project Fees,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,Sales - Project ODC,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,Sales - Provisional Burden,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,Sales - Role Labor,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,Sales - Subcontract,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,Sales Recognized,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,CPB,Company Project Controls,WIP Burden,MAIN,MAIN,12100||300
+EPIC07,Project Billing,CPB,Company Project Controls,WIP Labor,MAIN,MAIN,12100||300
+EPIC07,Project Billing,CPB,Company Project Controls,WIP Material,MAIN,MAIN,12100||300
+EPIC07,Project Billing,CPB,Company Project Controls,WIP Material Burden,MAIN,MAIN,12100||300
+EPIC07,Project Billing,CPB,Company Project Controls,WIP Other Direct Cost,MAIN,MAIN,12100||300
+EPIC07,Project Billing,CPB,Company Project Controls,WIP Rounding,MAIN,MAIN,12100||300
+EPIC07,Project Billing,CPB,Company Project Controls,WIP Subcontract,MAIN,MAIN,12100||300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Accrued Labor Charges,MAIN,MAIN,21100
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Accrued Sales Recognized,MAIN,MAIN,12600
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Ceilings,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,COS Burden,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,COS Labor,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,COS Material,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,COS Material Burden,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,COS Other Direct Cost,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,COS Rounding,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,COS Subcontract,MAIN,MAIN,50100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Deferred Revenue,MAIN,MAIN,13100
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Retained Revenue,MAIN,MAIN,13600
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Sales - Actual Burden,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Sales - Material,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Sales - Measured Work,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Sales - Project Fees,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Sales - Project ODC,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Sales - Provisional Burden,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Sales - Role Labor,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Sales - Subcontract,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,Sales Recognized,MAIN,MAIN,40100|00|300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,WIP Burden,MAIN,MAIN,12100||300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,WIP Labor,MAIN,MAIN,12100||300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,WIP Material,MAIN,MAIN,12100||300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,WIP Material Burden,MAIN,MAIN,12100||300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,WIP Other Direct Cost,MAIN,MAIN,12100||300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,WIP Rounding,MAIN,MAIN,12100||300
+EPIC07,Project Billing,PB01,Project Billing Consultancy,WIP Subcontract,MAIN,MAIN,12100||300
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Accrued Labor Charges,MAIN,MAIN,21100
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Accrued Sales Recognized,MAIN,MAIN,12600
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Ceilings,MAIN,MAIN,50400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,COS Burden,MAIN,MAIN,50400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,COS Labor,MAIN,MAIN,50400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,COS Material,MAIN,MAIN,50400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,COS Material Burden,MAIN,MAIN,50400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,COS Other Direct Cost,MAIN,MAIN,50400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,COS Rounding,MAIN,MAIN,50400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,COS Subcontract,MAIN,MAIN,50400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Deferred Revenue,MAIN,MAIN,13100
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Retained Revenue,MAIN,MAIN,13600
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Sales - Actual Burden,MAIN,MAIN,40400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Sales - Material,MAIN,MAIN,40400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Sales - Measured Work,MAIN,MAIN,40400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Sales - Project Fees,MAIN,MAIN,40400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Sales - Project ODC,MAIN,MAIN,40400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Sales - Provisional Burden,MAIN,MAIN,40400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Sales - Role Labor,MAIN,MAIN,40400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Sales - Subcontract,MAIN,MAIN,40400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,Sales Recognized,MAIN,MAIN,40400|00|200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,WIP Burden,MAIN,MAIN,12100||200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,WIP Labor,MAIN,MAIN,12100||200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,WIP Material,MAIN,MAIN,12100||200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,WIP Material Burden,MAIN,MAIN,12100||200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,WIP Other Direct Cost,MAIN,MAIN,12100||200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,WIP Rounding,MAIN,MAIN,12100||200
+EPIC07,Project Billing,PB02,Project Billing Technical Infr,WIP Subcontract,MAIN,MAIN,12100||200
+EPIC07,Project Billing,PB03,Project Billing Support,Accrued Labor Charges,MAIN,MAIN,21100
+EPIC07,Project Billing,PB03,Project Billing Support,Accrued Sales Recognized,MAIN,MAIN,12600
+EPIC07,Project Billing,PB03,Project Billing Support,Ceilings,MAIN,MAIN,50200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,COS Burden,MAIN,MAIN,50200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,COS Labor,MAIN,MAIN,50200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,COS Material,MAIN,MAIN,50200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,COS Material Burden,MAIN,MAIN,50200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,COS Other Direct Cost,MAIN,MAIN,50200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,COS Rounding,MAIN,MAIN,50200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,COS Subcontract,MAIN,MAIN,50200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,Deferred Revenue,MAIN,MAIN,13100
+EPIC07,Project Billing,PB03,Project Billing Support,Retained Revenue,MAIN,MAIN,13600
+EPIC07,Project Billing,PB03,Project Billing Support,Sales - Actual Burden,MAIN,MAIN,40200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,Sales - Material,MAIN,MAIN,40200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,Sales - Measured Work,MAIN,MAIN,40200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,Sales - Project Fees,MAIN,MAIN,40200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,Sales - Project ODC,MAIN,MAIN,40200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,Sales - Provisional Burden,MAIN,MAIN,40200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,Sales - Role Labor,MAIN,MAIN,40200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,Sales - Subcontract,MAIN,MAIN,40200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,Sales Recognized,MAIN,MAIN,40200|00|210
+EPIC07,Project Billing,PB03,Project Billing Support,WIP Burden,MAIN,MAIN,12100||210
+EPIC07,Project Billing,PB03,Project Billing Support,WIP Labor,MAIN,MAIN,12100||210
+EPIC07,Project Billing,PB03,Project Billing Support,WIP Material,MAIN,MAIN,12100||210
+EPIC07,Project Billing,PB03,Project Billing Support,WIP Material Burden,MAIN,MAIN,12100||210
+EPIC07,Project Billing,PB03,Project Billing Support,WIP Other Direct Cost,MAIN,MAIN,12100||210
+EPIC07,Project Billing,PB03,Project Billing Support,WIP Rounding,MAIN,MAIN,12100||210
+EPIC07,Project Billing,PB03,Project Billing Support,WIP Subcontract,MAIN,MAIN,12100||210
+EPIC07,Project Billing,PB04,Project Billing Solutions,Accrued Labor Charges,MAIN,MAIN,21100
+EPIC07,Project Billing,PB04,Project Billing Solutions,Accrued Sales Recognized,MAIN,MAIN,12600
+EPIC07,Project Billing,PB04,Project Billing Solutions,Ceilings,MAIN,MAIN,50600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,COS Burden,MAIN,MAIN,50600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,COS Labor,MAIN,MAIN,50600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,COS Material,MAIN,MAIN,50600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,COS Material Burden,MAIN,MAIN,50600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,COS Other Direct Cost,MAIN,MAIN,50600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,COS Rounding,MAIN,MAIN,50600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,COS Subcontract,MAIN,MAIN,50600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,Deferred Revenue,MAIN,MAIN,13100
+EPIC07,Project Billing,PB04,Project Billing Solutions,Retained Revenue,MAIN,MAIN,13600
+EPIC07,Project Billing,PB04,Project Billing Solutions,Sales - Actual Burden,MAIN,MAIN,40600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,Sales - Material,MAIN,MAIN,40600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,Sales - Measured Work,MAIN,MAIN,40600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,Sales - Project Fees,MAIN,MAIN,40600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,Sales - Project ODC,MAIN,MAIN,40600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,Sales - Provisional Burden,MAIN,MAIN,40600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,Sales - Role Labor,MAIN,MAIN,40600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,Sales - Subcontract,MAIN,MAIN,40600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,Sales Recognized,MAIN,MAIN,40600|00|110
+EPIC07,Project Billing,PB04,Project Billing Solutions,WIP Burden,MAIN,MAIN,12100||110
+EPIC07,Project Billing,PB04,Project Billing Solutions,WIP Labor,MAIN,MAIN,12100||110
+EPIC07,Project Billing,PB04,Project Billing Solutions,WIP Material,MAIN,MAIN,12100||110
+EPIC07,Project Billing,PB04,Project Billing Solutions,WIP Material Burden,MAIN,MAIN,12100||110
+EPIC07,Project Billing,PB04,Project Billing Solutions,WIP Other Direct Cost,MAIN,MAIN,12100||110
+EPIC07,Project Billing,PB04,Project Billing Solutions,WIP Rounding,MAIN,MAIN,12100||110
+EPIC07,Project Billing,PB04,Project Billing Solutions,WIP Subcontract,MAIN,MAIN,12100||110
+EPIC07,Project Billing,PB05,Project Billing Development,Accrued Labor Charges,MAIN,MAIN,21100
+EPIC07,Project Billing,PB05,Project Billing Development,Accrued Sales Recognized,MAIN,MAIN,12600
+EPIC07,Project Billing,PB05,Project Billing Development,Ceilings,MAIN,MAIN,50500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,COS Burden,MAIN,MAIN,50500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,COS Labor,MAIN,MAIN,50500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,COS Material,MAIN,MAIN,50500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,COS Material Burden,MAIN,MAIN,50500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,COS Other Direct Cost,MAIN,MAIN,50500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,COS Rounding,MAIN,MAIN,50500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,COS Subcontract,MAIN,MAIN,50500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,Deferred Revenue,MAIN,MAIN,13100
+EPIC07,Project Billing,PB05,Project Billing Development,Retained Revenue,MAIN,MAIN,13600
+EPIC07,Project Billing,PB05,Project Billing Development,Sales - Actual Burden,MAIN,MAIN,40500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,Sales - Material,MAIN,MAIN,40500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,Sales - Measured Work,MAIN,MAIN,40500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,Sales - Project Fees,MAIN,MAIN,40500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,Sales - Project ODC,MAIN,MAIN,40500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,Sales - Provisional Burden,MAIN,MAIN,40500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,Sales - Role Labor,MAIN,MAIN,40500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,Sales - Subcontract,MAIN,MAIN,40500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,Sales Recognized,MAIN,MAIN,40500|00|100
+EPIC07,Project Billing,PB05,Project Billing Development,WIP Burden,MAIN,MAIN,12100||100
+EPIC07,Project Billing,PB05,Project Billing Development,WIP Labor,MAIN,MAIN,12100||100
+EPIC07,Project Billing,PB05,Project Billing Development,WIP Material,MAIN,MAIN,12100||100
+EPIC07,Project Billing,PB05,Project Billing Development,WIP Material Burden,MAIN,MAIN,12100||100
+EPIC07,Project Billing,PB05,Project Billing Development,WIP Other Direct Cost,MAIN,MAIN,12100||100
+EPIC07,Project Billing,PB05,Project Billing Development,WIP Rounding,MAIN,MAIN,12100||100
+EPIC07,Project Billing,PB05,Project Billing Development,WIP Subcontract,MAIN,MAIN,12100||100
+EPIC07,Project Control,PB05,Development Project,COS Burden,MAIN,MAIN,50500|00|100
+EPIC07,Project Control,PB05,Development Project,COS Labor,MAIN,MAIN,50500|00|100
+EPIC07,Project Control,PB05,Development Project,COS Material,MAIN,MAIN,50500|00|100
+EPIC07,Project Control,PB05,Development Project,COS Material Burden,MAIN,MAIN,50500|00|100
+EPIC07,Project Control,PB05,Development Project,COS Rounding,MAIN,MAIN,50500|00|100
+EPIC07,Project Control,PB05,Development Project,COS Subcontract,MAIN,MAIN,50500|00|100
+EPIC07,Project Control,PB05,Development Project,Deferred Revenue,MAIN,MAIN,13100||100
+EPIC07,Project Control,PB05,Development Project,Discounts,MAIN,MAIN,40500|00|100
+EPIC07,Project Control,PB05,Development Project,Returns,MAIN,MAIN,40500|00|100
+EPIC07,Project Control,PB05,Development Project,Sales,MAIN,MAIN,40500|00|100
+EPIC07,Project Control,PB05,Development Project,WIP Burden,MAIN,MAIN,12100||100
+EPIC07,Project Control,PB05,Development Project,WIP Labor,MAIN,MAIN,12100||100
+EPIC07,Project Control,PB05,Development Project,WIP Material,MAIN,MAIN,12100||100
+EPIC07,Project Control,PB05,Development Project,WIP Material Burden,MAIN,MAIN,12100||100
+EPIC07,Project Control,PB05,Development Project,WIP Rounding,MAIN,MAIN,50500|00|100
+EPIC07,Project Control,PB05,Development Project,WIP Subcontract,MAIN,MAIN,12100||100
+EPIC07,Reason Code,CAP,Capitalize Fixed Assets,Adjustment,MAIN,MAIN,10900
+EPIC07,Reason Code,COI,Cost Of Sale Infrastruct,Adjustment,MAIN,MAIN,50400|00|200
+EPIC07,Reason Code,COM,Cost of Sale ERP Maint.,Adjustment,MAIN,MAIN,51100|00|210
+EPIC07,Reason Code,COP,Cost of Sale products,Adjustment,MAIN,MAIN,50300|00|200
+EPIC07,Reason Code,COS,Cost of Sale Development,Adjustment,MAIN,MAIN,50500|00|100
+EPIC07,Reason Code,EQC,Equipment Exp Consultancy,Adjustment,MAIN,MAIN,70600|00|300
+EPIC07,Reason Code,EQD,Equipment Exp Development,Adjustment,MAIN,MAIN,70600|00|100
+EPIC07,Reason Code,EQI,Equipment Exp Infrastructure,Adjustment,MAIN,MAIN,70600|00|200
+EPIC07,Reason Code,EQS,Equipment Exp Support,Adjustment,MAIN,MAIN,70600|00|210
+EPIC07,Reason Code,MISP,Merchandise,Adjustment,MAIN,MAIN,87000|00|000
+EPIC07,Supplier,60700,Associate Costs,Expense,MAIN,MAIN,60700|00|300
+EPIC07,Supplier,60700100,Development Comnsulting,Expense,MAIN,MAIN,60700|00|100
+EPIC07,Supplier,85100,Accountancy Costs,Expense,MAIN,MAIN,85100|00|000
+EPIC07,Supplier,85200,Consultancy Fees,Expense,MAIN,MAIN,85200|00|300
+EPIC07,Supplier,ACC,Accountancy,Expense,MAIN,MAIN,85100|00|000
+EPIC07,Supplier,BLDG MAIN,Service charge,Expense,MAIN,MAIN,83300|00|000
+EPIC07,Supplier,BUPA,Bupa,Expense,MAIN,MAIN,81550|00|000
+EPIC07,Supplier,COGSCON,COGS Consultancy,Expense,MAIN,MAIN,50100|00|300
+EPIC07,Supplier,COGSDEV,COGS Development,Expense,MAIN,MAIN,50500|00|100
+EPIC07,Supplier,COGSSOL,COGS Solutions,Expense,MAIN,MAIN,50600|00|110
+EPIC07,Supplier,FUEL,Fuel Account,Expense,MAIN,MAIN,86400|00|000
+EPIC07,Supplier,RATES,Rates,Expense,MAIN,MAIN,84600|00|000
+EPIC07,Supplier,RENT,Rent,Expense,MAIN,MAIN,84600|00|000
+EPIC07,Supplier,STAT,Stationery,Expense,MAIN,MAIN,84000|00|000
+EPIC07,Supplier,WATER,Water rates,Expense,MAIN,MAIN,72500|00|000
+EPIC07,Tax,CTX,Company Tax Controls,AP Interim Tax,MAIN,MAIN,24100
+EPIC07,Tax,CTX,Company Tax Controls,AP Interim Tax Variance,MAIN,MAIN,24100
+EPIC07,Tax,CTX,Company Tax Controls,AP Tax Accrual,MAIN,MAIN,24100
+EPIC07,Tax,CTX,Company Tax Controls,AP Tax Accrual Variance,MAIN,MAIN,24100
+EPIC07,Tax,CTX,Company Tax Controls,AP Tax Contra,MAIN,MAIN,24100
+EPIC07,Tax,CTX,Company Tax Controls,AP Tax Contra Variance,MAIN,MAIN,24100
+EPIC07,Tax,CTX,Company Tax Controls,AR Interim Tax,MAIN,MAIN,24200
+EPIC07,Tax,CTX,Company Tax Controls,AR Interim Tax Variance,MAIN,MAIN,24200
+EPIC07,Tax,CTX,Company Tax Controls,AR Tax Accrual,MAIN,MAIN,24200
+EPIC07,Tax,CTX,Company Tax Controls,AR Tax Accrual Variance,MAIN,MAIN,24200
+EPIC07,Tax,CTX,Company Tax Controls,AR Tax Contra,MAIN,MAIN,24200
+EPIC07,Tax,CTX,Company Tax Controls,AR Tax Contra Variance,MAIN,MAIN,24200

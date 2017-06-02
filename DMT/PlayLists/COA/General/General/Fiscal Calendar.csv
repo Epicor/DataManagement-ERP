@@ -1,0 +1,3 @@
+Company,FiscalCalendarID,Description,FiscalYr#FiscalYear,FiscalYr#StartDate,FiscalYr#EndDate,FiscalYr#GeneratePeriods
+EPIC07,Main,Company Calendar,2016,01/01/2016,31/12/2016,TRUE
+EPIC07,Main,Company Calendar,2017,01/01/2017,31/12/2017,TRUE
