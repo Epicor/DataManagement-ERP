@@ -1,0 +1,23 @@
+Company,TaxCode,Description,Manual,RoundDown,Advanced,ETCJurisKey,ETCHash,CollectionType,Timing,Algorithm,DiscountType,TaxJurisCode,RptCatCode,TextCode,InPrice,LglNumType,LglNumSeq,RevRptCatCode,ServiceTaxPoint,Direct,Triangulation,GlobalSalesTax,GlobalLock,InvoiceType,InvMethod,CustType,RevType,IssueType,INIsCST,AGAFIPCode,AGAFIPTaxRegCode,AGAFIPTaxRegDesc,AGMinimumByTax,AGTaxableAmtType,AGWHHeader,IndirectTaxType,AllowConfirmationTax,mtlDescription,mtlLangDesc,mtlLangId,NOTaxCategory,SalesTRC#RateCode,SalesTRC#Description,SalesTRC#DefaultRate,SalesTRC#TextCode,SalesTRC#AGAFIPCode,SalesTRC#AGFEAFIPCode,SalesTRC#AGPurchaseColNumber,SalesTRC#AGSalesColNumber
+EPIC07,APD,AP Domestic,FALSE,FALSE,TRUE,,0,0,0,,0,,DI,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,L,Lower,FALSE,,,,0,0
+EPIC07,APD,AP Domestic,FALSE,FALSE,TRUE,,0,0,0,,0,,DI,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,M,Middle,FALSE,,,,0,0
+EPIC07,APD,AP Domestic,FALSE,FALSE,TRUE,,0,0,0,,0,,DI,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,N,Not Appllicable,FALSE,,,,0,0
+EPIC07,APD,AP Domestic,FALSE,FALSE,TRUE,,0,0,0,,0,,DI,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,S,Standard,TRUE,,,,0,0
+EPIC07,APEG,AP EU Goods,FALSE,FALSE,FALSE,,0,0,0,,0,,EUGI,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,S,Standard,TRUE,,,,0,0
+EPIC07,APES,AP EU Services,FALSE,FALSE,FALSE,,0,0,0,,0,,EUSI,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,S,Standard,TRUE,,,,0,0
+EPIC07,API,AP Inter Group,FALSE,FALSE,FALSE,,0,0,0,,0,,IGI,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,S,Standard,TRUE,,,,0,0
+EPIC07,APW,AP ROW,FALSE,FALSE,FALSE,,0,0,0,,0,,ROWI,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,S,Standard,TRUE,,,,0,0
+EPIC07,ARD,AR Domestic,FALSE,FALSE,TRUE,,0,0,0,,0,,DO,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,(R),(Reversed),FALSE,,,,0,0
+EPIC07,ARD,AR Domestic,FALSE,FALSE,TRUE,,0,0,0,,0,,DO,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,L,Lower,FALSE,,,,0,0
+EPIC07,ARD,AR Domestic,FALSE,FALSE,TRUE,,0,0,0,,0,,DO,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,M,Middle,FALSE,,,,0,0
+EPIC07,ARD,AR Domestic,FALSE,FALSE,TRUE,,0,0,0,,0,,DO,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,N,Not Appllicable,FALSE,,,,0,0
+EPIC07,ARD,AR Domestic,FALSE,FALSE,TRUE,,0,0,0,,0,,DO,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,R,Reversed,FALSE,,,,0,0
+EPIC07,ARD,AR Domestic,FALSE,FALSE,TRUE,,0,0,0,,0,,DO,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,S,Standard,TRUE,,,,0,0
+EPIC07,AREG,AR EU Goods,FALSE,FALSE,FALSE,,0,0,0,,0,,EUGO,,FALSE,,,,FALSE,,2,FALSE,FALSE,,,,,,,,,,,,,,,,,,,S,Standard,TRUE,,,,0,0
+EPIC07,ARES,AR EU Services,FALSE,FALSE,FALSE,,0,0,0,,0,,EUSO,,FALSE,,,,FALSE,3,3,FALSE,FALSE,,,,,,,,,,,,,,,,,,,S,Standard,TRUE,,,,0,0
+EPIC07,ARI,AR Inter Group,FALSE,FALSE,FALSE,,0,0,0,,0,,IGO,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,S,Standard,TRUE,,,,0,0
+EPIC07,ARW,AR ROW,FALSE,FALSE,FALSE,,0,0,0,,0,,ROWO,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,S,Standard,TRUE,,,,0,0
+EPIC07,RW00,Rest of World,FALSE,FALSE,FALSE,,0,0,0,,0,,ROWO,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,RW00,Rest of World,TRUE,,,,0,0
+EPIC07,APDR,Reverse Charge,FALSE,FALSE,FALSE,,0,0,0,,0,,,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,R,Reversed,TRUE,,,,0,0
+EPIC07,UK00,UK Exempt,FALSE,FALSE,FALSE,,0,0,0,,0,,,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,UK00,UK Exempt,TRUE,,,,0,0
+EPIC07,UK01,UK Std Rate,FALSE,FALSE,TRUE,,0,0,0,,0,,,,FALSE,,,,FALSE,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,UK01,UK Std VAT,TRUE,,,,0,0

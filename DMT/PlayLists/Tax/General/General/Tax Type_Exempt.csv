@@ -1,0 +1,7 @@
+Company,TaxCode,Description,SalesTRC#RateCode,SalesTRC#Description,SalesTxc#TaxCatID
+EPIC07,APD,AP Domestic,L,Lower,RAW
+EPIC07,APD,AP Domestic,L,Lower,PROD
+EPIC07,APD,AP Domestic,M,Middle,PROD
+EPIC07,APD,AP Domestic,M,Middle,SERV
+EPIC07,APD,AP Domestic,N,Not Applicable,SERV
+EPIC07,APD,AP Domestic,N,Not Applicable,RAW

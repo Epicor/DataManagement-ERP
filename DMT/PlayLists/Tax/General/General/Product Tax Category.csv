@@ -1,0 +1,13 @@
+Company,TaxCatID,Description
+EPIC07,CONCAT,Contract Tax Category
+EPIC07,E,Exempt
+EPIC07,L,Lower
+EPIC07,M,Middle
+EPIC07,NA,Not Applicable
+EPIC07,PROCAT,Project Tax Category
+EPIC07,R,Reverse Charge Threshold
+EPIC07,SV,Service
+EPIC07,S,Standard
+EPIC07,RAW,Raw Materials
+EPIC07,PROD,Products
+EPIC07,SERV,Services

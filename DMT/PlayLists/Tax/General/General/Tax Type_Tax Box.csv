@@ -1,0 +1,7 @@
+Company,TaxCode,Description,SalesTRC#RateCode,TaxBox#BoxCode,TaxBox#SourceModule,TaxBox#ECAcquisitionSeq,TaxBox#AmountType
+EPIC07,APD,AP Domestic,L,1,APDM,0,Tax
+EPIC07,APD,AP Domestic,L,2,AR,0,Tax
+EPIC07,APD,AP Domestic,M,2,AP,1,Tax
+EPIC07,APD,AP Domestic,M,4,AR,1,Tax
+EPIC07,APD,AP Domestic,N,1,AP,0,Tax
+EPIC07,APD,AP Domestic,N,4,APDM,0,Tax

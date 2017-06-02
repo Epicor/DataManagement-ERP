@@ -1,0 +1,8 @@
+Company,BoxCode,Description,Comment,XMLTag,SourceModule,AmountType,BoxSign,ECAcquisitionSeq,GlobalTaxBoxDefault,GlobalLock
+EPIC07,1,Sales Output Tax,,Sales Output Tax,ARCM,Tax,-,0,FALSE,FALSE
+EPIC07,2,EU Acquisition Tax,,EU Acquisition,APDM,Tax,-,1,FALSE,FALSE
+EPIC07,4,Input Tax,,InputTax,APDM,Tax,+,0,FALSE,FALSE
+EPIC07,6,Sales Value,Sales excluding Tax including zero rated,Sales Value,ARCM,Taxable,-,0,FALSE,FALSE
+EPIC07,7,Purchases,Purchase value excluding tax,Purchases,APDM,Taxable,+,0,FALSE,FALSE
+EPIC07,8,EU Sales,EU sales - goods and related,EU Sales,ARCM,Taxable,+,0,FALSE,FALSE
+EPIC07,9,EU Acquisition,,EUAcquisition,APDM,Taxable,+,0,FALSE,FALSE

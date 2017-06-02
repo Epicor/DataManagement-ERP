@@ -1,0 +1,7 @@
+Company,TaxRegionCode,Description,InEC,TaxCode,TaxMethod,ExemptType,ExemptPercent,TaxNum
+EPIC07,EU01,In EC - 0.00% VAT,1,EU0000,L,0,0,1
+EPIC07,EX01,VAT Exempt,0,EX0000,L,0,0,1
+EPIC07,IN01,Interco VAT 0%,0,IC0000,L,0,0,1
+EPIC07,RW01,Non EC 0.00% Rated (ROW),0,RW0000,L,0,0,1
+EPIC07,UK00,UK 0.00% VAT,0,UK0000,L,0,0,1
+EPIC07,UK01,UK Standard VAT,0,UK1750,L,0,0,1

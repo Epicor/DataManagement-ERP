@@ -1,0 +1,7 @@
+Company,TaxCode,Description,SalesTRC#RateCode,SalesTRC#Description,TaxRate#EffectiveFrom,TaxRate#TaxPercent
+EPIC07,APD,AP Domestic,L,Lower,01/01/2000,1
+EPIC07,APD,AP Domestic,L,Lower,01/01/2010,2
+EPIC07,APD,AP Domestic,M,Middle,01/01/2000,3
+EPIC07,APD,AP Domestic,M,Middle,01/01/2010,4
+EPIC07,APD,AP Domestic,N,Not Applicable,01/01/2000,5
+EPIC07,APD,AP Domestic,N,Not Applicable,01/01/2010,6

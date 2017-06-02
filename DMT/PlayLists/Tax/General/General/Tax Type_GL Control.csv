@@ -1,0 +1,4 @@
+Company,TaxCode,Description,SalesTRC#RateCode,EntityGLC#GLControlType,EntityGLC#GLControlCode
+EPIC07,APD,AP Domestic,L,Tax,CTX
+EPIC07,APD,AP Domestic,M,Tax,CTX
+EPIC07,APD,AP Domestic,N,Tax,CTX
