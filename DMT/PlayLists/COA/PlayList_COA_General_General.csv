@@ -1,0 +1,10 @@
+Import,Source,Add,Update,Delete,Wait
+Fiscal Calendar,C:\DMT\PlayLists\COA\General\General\Fiscal Calendar.csv,True,True,False,False
+Chart Of Accounts,C:\DMT\PlayLists\COA\General\General\Chart Of Accounts.csv,True,True,False,False
+COA Category,C:\DMT\PlayLists\COA\General\General\COA Category.csv,True,True,False,False
+Account Segment Values,C:\DMT\PlayLists\COA\General\General\Account Segment Values.csv,True,True,False,False
+GL Account,C:\DMT\PlayLists\COA\General\General\GL Account.csv,True,True,False,False
+GL Book,C:\DMT\PlayLists\COA\General\General\GL Book.csv,True,True,False,False
+GL Control Type,C:\DMT\PlayLists\COA\General\General\GL Control Type.csv,True,True,False,False
+GL Control Type Account Context,C:\DMT\PlayLists\COA\General\General\GL Control Type Account Context.csv,True,True,False,False
+GL Control,C:\DMT\PlayLists\COA\General\General\GL Control.csv,True,True,False,False
