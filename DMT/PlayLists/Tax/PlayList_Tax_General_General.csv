@@ -1,0 +1,9 @@
+Import,Source,Add,Update,Delete,Wait
+Product Tax Category,C:\DMT\PlayLists\Tax\General\General\Product Tax Category.csv,True,True,False,False
+Tax Report Category,C:\DMT\PlayLists\Tax\General\General\Tax Report Category.csv,True,True,False,False
+Tax Box,C:\DMT\PlayLists\Tax\General\General\Tax Box.csv,True,True,False,False
+Tax Type,C:\DMT\PlayLists\Tax\General\General\Tax Type_Rate Code.csv,True,True,False,False
+Tax Type,C:\DMT\PlayLists\Tax\General\General\Tax Type_Effective Date.csv,True,True,False,False
+Tax Type,C:\DMT\PlayLists\Tax\General\General\Tax Type_Exempt.csv,True,True,False,False
+Tax Type,C:\DMT\PlayLists\Tax\General\General\Tax Type_GL Control.csv,True,True,False,False
+Tax Type,C:\DMT\PlayLists\Tax\General\General\Tax Type_Tax Box.csv,True,True,False,False
