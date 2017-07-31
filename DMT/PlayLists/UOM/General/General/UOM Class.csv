@@ -1,0 +1,14 @@
+UOMClassID,Description,ClassType,UOMConv#ConvFactor,UOMConv#UOMCode,UOMConv#Active,UOMConv#ConvOperator,UOMConv#PartSpecific
+Area,Area,Area,1,M2,1,*,0
+Count,Count,Count,1,EA,1,*,0
+Count,Count,Count,1,LIC,1,*,0
+Count,Count,Count,1,USR,1,*,0
+Length,Length,Length,1,M,1,*,0
+Length,Length,Length,1,MLS,1,*,0
+Time,Time,Time,1,HR,1,*,0
+Time,Time,Time,8,DAY,1,*,0
+Time,Time,Time,1,PA,1,*,0
+Time,Time,Time,1,PM,1,*,0
+Time,Time,Time,1,PQ,1,*,0
+Volume,Volume,Volume,1,M3,1,*,0
+Weight,Weight,Weight,1,KG,1,*,0
