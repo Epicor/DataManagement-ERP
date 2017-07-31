@@ -1,0 +1,3 @@
+Import,Source,Add,Update,Delete,Wait
+UOM,General\General\UOM.csv,True,True,False,True
+UOM Class,General\General\UOM Class.csv,True,True,False,True
