@@ -1,14 +1,34 @@
-UOMCode,UOMDesc,UOMSymbol,Rounding,AllowDecimals,NumOfDec,Active
-EA,Each,EA,RND,1,3,1
-DAY,Days,DAY,RND,1,2,1
-HR,Hours,HR,RND,1,2,1
-KG,Kilogrammes,KG,RND,1,3,1
-LIC,License Pack,LIC,NOT,0,0,1
-M,Metres,M,RND,1,3,1
-M2,Metres Squared,M2,RND,1,3,1
-M3,Metres Cubed,M3,RND,1,3,1
-MLS,Miles,MLS,RND,0,0,1
-PA,Per Annum,PA,RND,0,0,1
-PM,Per Month,PM,RND,0,0,1
-PQ,Per Quarter,PQ,RND,0,0,1
-USR,User License,USR,DWN,0,0,1
+UOMCode,UOMDesc,NumOfDec
+EA,Each,2
+C,Hundred,2
+K,Thousand,2
+SH,Single Sheet,2
+MM,Millimeter,2
+CM,Centimeter,2
+M,Meter,2
+KM,Kilometer,2
+IN,Inch,2
+FT,Feet,2
+YD,Yard,2
+MI,Mile,2
+MG,Milligram,2
+G,Gram,2
+KG,Kilogram,2
+MT,Metric Tonne,2
+OZ,Ounce,2
+LB,Pound,2
+ST,Stone,2
+TN,Tonne,2
+ML,Milliliter,2
+CL,Centiliter,2
+LI,Liter,2
+M3,Cubic Meter,2
+OZF,Fluid Ounce,2
+QT,Quart,2
+PI,Pint,2
+GL,Gallon,2
+S,Second,2
+MN,Minute,2
+HR,Hour,2
+DY,Day,2
+WK,Week,2
